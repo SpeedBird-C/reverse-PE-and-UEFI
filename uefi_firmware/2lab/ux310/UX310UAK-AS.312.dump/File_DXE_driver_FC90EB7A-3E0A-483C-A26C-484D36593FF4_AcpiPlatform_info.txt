@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AcpiPlatform
+Fixed: No
+Offset: 539C20h
+File GUID: FC90EB7A-3E0A-483C-A26C-484D36593FF4
+Type: 07h
+Attributes: 00h
+Full size: 10016h (65558)
+Header size: 18h (24)
+Body size: FFFEh (65534)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C0h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: UsbTypeCDxe
+Fixed: No
+Offset: 521780h
+File GUID: 15B985C5-7103-4F35-B59D-2235FC5F3FFE
+Type: 07h
+Attributes: 00h
+Full size: 18AAh (6314)
+Header size: 18h (24)
+Body size: 1892h (6290)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E6h, valid
+Data checksum: AAh, valid

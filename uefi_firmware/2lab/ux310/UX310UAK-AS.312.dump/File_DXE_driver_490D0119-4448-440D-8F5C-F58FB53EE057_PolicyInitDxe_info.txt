@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PolicyInitDxe
+Fixed: No
+Offset: 89670h
+File GUID: 490D0119-4448-440D-8F5C-F58FB53EE057
+Type: 07h
+Attributes: 00h
+Full size: 47F2h (18418)
+Header size: 18h (24)
+Body size: 47DAh (18394)
+Tail size: 0h (0)
+State: F8h
+Header checksum: DAh, valid
+Data checksum: AAh, valid

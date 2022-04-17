@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: BiosGuardMeudVerifyMeCapsule
+Fixed: No
+Base: 534A70h
+Header address: FFF34270h
+Data address: FFF34288h
+Offset: 14270h
+File GUID: B8D62377-7970-4CE1-87F4-9DDE56AE8982
+Type: 06h
+Attributes: 00h
+Full size: 10FEh (4350)
+Header size: 18h (24)
+Body size: 10E6h (4326)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A9h, valid
+Data checksum: AAh, valid

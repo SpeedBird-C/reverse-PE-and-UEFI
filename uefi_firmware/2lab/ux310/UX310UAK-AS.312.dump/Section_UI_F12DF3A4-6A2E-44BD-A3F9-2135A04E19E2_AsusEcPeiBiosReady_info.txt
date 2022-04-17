@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 538C4Ch
+Header address: FFF3844Ch
+Data address: FFF38450h
+Offset: 52Ch
+Type: 15h
+Full size: 2Ah (42)
+Header size: 4h (4)
+Body size: 26h (38)
+Text: AsusEcPeiBiosReady

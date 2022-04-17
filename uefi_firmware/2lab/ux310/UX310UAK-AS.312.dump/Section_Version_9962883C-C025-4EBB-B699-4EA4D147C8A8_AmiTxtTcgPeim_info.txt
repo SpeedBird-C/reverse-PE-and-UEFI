@@ -1,0 +1,13 @@
+Type: Section
+Subtype: Version
+Fixed: No
+Base: 5298DCh
+Header address: FFF290DCh
+Data address: FFF290E2h
+Offset: 111Ch
+Type: 14h
+Full size: Eh (14)
+Header size: 6h (6)
+Body size: 8h (8)
+Build number: 0
+Version string: 1.0

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: PhyProtection
+Fixed: No
+Offset: 474908h
+File GUID: 60110A41-9EEB-4735-9E18-E9D597781F9B
+Type: 0Ah
+Attributes: 00h
+Full size: B16h (2838)
+Header size: 18h (24)
+Body size: AFEh (2814)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D7h, valid
+Data checksum: AAh, valid

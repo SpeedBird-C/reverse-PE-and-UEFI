@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: IccPlatformDxe
+Fixed: No
+Offset: 721B0h
+File GUID: 14257B56-BDA2-4FAF-8E4F-C885DF75583C
+Type: 07h
+Attributes: 00h
+Full size: 5CEh (1486)
+Header size: 18h (24)
+Body size: 5B6h (1462)
+Tail size: 0h (0)
+State: F8h
+Header checksum: ADh, valid
+Data checksum: AAh, valid

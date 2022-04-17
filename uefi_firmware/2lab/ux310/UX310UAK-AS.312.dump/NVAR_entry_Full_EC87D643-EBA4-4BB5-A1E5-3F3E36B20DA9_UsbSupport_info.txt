@@ -1,0 +1,14 @@
+Type: NVAR entry
+Subtype: Full
+Text: UsbSupport
+Fixed: Yes
+Base: 21B06h
+Header address: FFA21306h
+Data address: FFA2131Ch
+Offset: 1276h
+Variable GUID: EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9
+GUID index: 0
+Full size: 37h (55)
+Header size: 16h (22)
+Body size: 21h (33)
+Attributes: 82h (AsciiName, Valid)

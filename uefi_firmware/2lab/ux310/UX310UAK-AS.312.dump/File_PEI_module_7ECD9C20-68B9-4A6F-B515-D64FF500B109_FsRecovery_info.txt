@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: FsRecovery
+Fixed: No
+Base: 5158D0h
+Header address: FFF150D0h
+Data address: FFF150E8h
+Offset: 750D0h
+File GUID: 7ECD9C20-68B9-4A6F-B515-D64FF500B109
+Type: 06h
+Attributes: 00h
+Full size: 2337h (9015)
+Header size: 18h (24)
+Body size: 231Fh (8991)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 21h, valid
+Data checksum: AAh, valid

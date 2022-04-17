@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: StatusCodeSmm
+Fixed: No
+Offset: 4ADE10h
+File GUID: DB08F6CA-3048-4CD8-9B1F-20BED33ECFE7
+Type: 0Ah
+Attributes: 00h
+Full size: 4332h (17202)
+Header size: 18h (24)
+Body size: 431Ah (17178)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E3h, valid
+Data checksum: AAh, valid

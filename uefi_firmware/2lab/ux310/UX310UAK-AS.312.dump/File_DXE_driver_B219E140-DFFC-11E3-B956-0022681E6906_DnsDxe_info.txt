@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: DnsDxe
+Fixed: No
+Offset: 2F28E0h
+File GUID: B219E140-DFFC-11E3-B956-0022681E6906
+Type: 07h
+Attributes: 00h
+Full size: 9EFEh (40702)
+Header size: 18h (24)
+Body size: 9EE6h (40678)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 7Ch, valid
+Data checksum: AAh, valid

@@ -1,0 +1,150 @@
+{
+    "bs_all": {
+        "FreePool": [
+            3038
+        ],
+        "LocateProtocol": [
+            814,
+            1025
+        ],
+        "RaiseTPL": [
+            842
+        ]
+    },
+    "bs_protocols": {
+        "CloseProtocol": [],
+        "HandleProtocol": [],
+        "InstallMultipleProtocolInterfaces": [],
+        "InstallProtocolInterface": [],
+        "LocateHandleBuffer": [],
+        "LocateProtocol": [
+            814,
+            1025
+        ],
+        "OpenProtocol": [],
+        "OpenProtocolInformation": [],
+        "ProtocolsPerHandle": [],
+        "RegisterProtocolNotify": [],
+        "ReinstallProtocolInterface": [],
+        "UninstallMultipleProtocolInterfaces": [],
+        "UninstallProtocolInterface": []
+    },
+    "gBS": [
+        4312
+    ],
+    "gImageHandle": [],
+    "gRT": [
+        4320
+    ],
+    "gST": [
+        4304
+    ],
+    "gSmst": [
+        4328,
+        4360
+    ],
+    "pei_all": null,
+    "protocols": [
+        {
+            "address": 3648,
+            "guid": [
+                3262131060,
+                32780,
+                16689,
+                135,
+                70,
+                143,
+                181,
+                184,
+                156,
+                228,
+                172
+            ],
+            "prot_name": "EFI_SMM_ACCESS2_PROTOCOL_GUID",
+            "service": "LocateProtocol",
+            "xref": 805
+        },
+        {
+            "address": 3632,
+            "guid": [
+                4107059127,
+                63200,
+                18429,
+                157,
+                212,
+                16,
+                168,
+                241,
+                80,
+                193,
+                145
+            ],
+            "prot_name": "EFI_SMM_BASE2_PROTOCOL_GUID",
+            "service": "LocateProtocol",
+            "xref": 1016
+        },
+        {
+            "address": 3616,
+            "guid": [
+                3979531571,
+                39398,
+                16905,
+                156,
+                192,
+                45,
+                114,
+                205,
+                217,
+                152,
+                167
+            ],
+            "prot_name": "EFI_SMM_VARIABLE_PROTOCOL_GUID",
+            "service": "SmmLocateProtocol",
+            "xref": 1183
+        },
+        {
+            "address": 3600,
+            "guid": [
+                1164781657,
+                43083,
+                20039,
+                162,
+                238,
+                50,
+                118,
+                216,
+                134,
+                153,
+                125
+            ],
+            "prot_name": "EFI_SMM_SX_DISPATCH2_PROTOCOL_GUID",
+            "service": "SmmLocateProtocol",
+            "xref": 1215
+        }
+    ],
+    "rt_all": null,
+    "smi_handlers": [],
+    "smm_all": {
+        "SmmAllocatePool": [
+            2965
+        ],
+        "SmmFreePool": [
+            3026
+        ],
+        "SmmLocateProtocol": [
+            1192,
+            1224
+        ]
+    },
+    "smm_protocols": {
+        "SmmHandleProtocol": [],
+        "SmmInstallProtocolInterface": [],
+        "SmmLocateHandle": [],
+        "SmmLocateProtocol": [
+            1192,
+            1224
+        ],
+        "SmmRegisterProtocolNotify": [],
+        "SmmUninstallProtocolInterface": []
+    }
+}

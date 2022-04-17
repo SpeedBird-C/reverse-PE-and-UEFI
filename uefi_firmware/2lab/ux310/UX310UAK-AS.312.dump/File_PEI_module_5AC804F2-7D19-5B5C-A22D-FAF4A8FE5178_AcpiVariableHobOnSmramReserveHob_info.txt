@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: AcpiVariableHobOnSmramReserveHob
+Fixed: No
+Base: 4C5D40h
+Header address: FFEC5540h
+Data address: FFEC5558h
+Offset: 25540h
+File GUID: 5AC804F2-7D19-5B5C-A22D-FAF4A8FE5178
+Type: 06h
+Attributes: 00h
+Full size: 4AAh (1194)
+Header size: 18h (24)
+Body size: 492h (1170)
+Tail size: 0h (0)
+State: F8h
+Header checksum: BBh, valid
+Data checksum: AAh, valid

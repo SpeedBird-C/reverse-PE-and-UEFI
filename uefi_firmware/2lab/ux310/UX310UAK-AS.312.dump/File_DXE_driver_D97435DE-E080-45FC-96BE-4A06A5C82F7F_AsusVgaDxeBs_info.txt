@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AsusVgaDxeBs
+Fixed: No
+Offset: 57BF00h
+File GUID: D97435DE-E080-45FC-96BE-4A06A5C82F7F
+Type: 07h
+Attributes: 00h
+Full size: 2AE6h (10982)
+Header size: 18h (24)
+Body size: 2ACEh (10958)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 29h, valid
+Data checksum: AAh, valid

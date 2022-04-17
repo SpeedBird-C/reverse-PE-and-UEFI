@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PauseKey
+Fixed: No
+Offset: 1D8D58h
+File GUID: 0A845224-8675-4241-8AE9-4D94C93DEB90
+Type: 07h
+Attributes: 00h
+Full size: 2FCEh (12238)
+Header size: 18h (24)
+Body size: 2FB6h (12214)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A5h, valid
+Data checksum: AAh, valid

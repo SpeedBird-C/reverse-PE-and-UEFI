@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 53B7A4h
+Header address: FFF3AFA4h
+Data address: FFF3AFA8h
+Offset: 217Ch
+Type: 15h
+Full size: 24h (36)
+Header size: 4h (4)
+Body size: 20h (32)
+Text: AsusOnBoardDimm

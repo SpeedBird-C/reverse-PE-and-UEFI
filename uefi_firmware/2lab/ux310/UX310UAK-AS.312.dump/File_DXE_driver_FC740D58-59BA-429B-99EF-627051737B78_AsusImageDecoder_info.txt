@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AsusImageDecoder
+Fixed: No
+Offset: 23BA20h
+File GUID: FC740D58-59BA-429B-99EF-627051737B78
+Type: 07h
+Attributes: 00h
+Full size: 760Ah (30218)
+Header size: 18h (24)
+Body size: 75F2h (30194)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A3h, valid
+Data checksum: AAh, valid

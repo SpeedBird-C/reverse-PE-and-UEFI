@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PciPort
+Fixed: No
+Offset: 230510h
+File GUID: 92E33E65-20F0-455D-9D71-02C09D5060AE
+Type: 07h
+Attributes: 00h
+Full size: 1596h (5526)
+Header size: 18h (24)
+Body size: 157Eh (5502)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B9h, valid
+Data checksum: AAh, valid

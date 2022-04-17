@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 537260h
+Header address: FFF36A60h
+Data address: FFF36A64h
+Offset: 3C8h
+Type: 15h
+Full size: 12h (18)
+Header size: 4h (4)
+Body size: Eh (14)
+Text: CrbPei

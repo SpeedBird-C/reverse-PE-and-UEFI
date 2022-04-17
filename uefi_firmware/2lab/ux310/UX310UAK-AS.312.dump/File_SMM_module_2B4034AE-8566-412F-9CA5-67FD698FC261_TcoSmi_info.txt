@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: TcoSmi
+Fixed: No
+Offset: 3B5F18h
+File GUID: 2B4034AE-8566-412F-9CA5-67FD698FC261
+Type: 0Ah
+Attributes: 00h
+Full size: 133Ah (4922)
+Header size: 18h (24)
+Body size: 1322h (4898)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 41h, valid
+Data checksum: AAh, valid

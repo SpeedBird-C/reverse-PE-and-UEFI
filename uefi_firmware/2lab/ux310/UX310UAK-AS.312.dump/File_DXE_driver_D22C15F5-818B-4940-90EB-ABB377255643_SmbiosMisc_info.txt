@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SmbiosMisc
+Fixed: No
+Offset: 7D168h
+File GUID: D22C15F5-818B-4940-90EB-ABB377255643
+Type: 07h
+Attributes: 00h
+Full size: A62h (2658)
+Header size: 18h (24)
+Body size: A4Ah (2634)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E2h, valid
+Data checksum: AAh, valid

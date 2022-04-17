@@ -1,0 +1,14 @@
+Type: NVAR entry
+Subtype: Full
+Text: SdioDevConfiguration
+Fixed: Yes
+Base: 5B3B5Ah
+Header address: FFFB335Ah
+Data address: FFFB337Ah
+Offset: 11EAh
+Variable GUID: EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9
+GUID index: 0
+Full size: 6Ah (106)
+Header size: 20h (32)
+Body size: 4Ah (74)
+Attributes: 82h (AsciiName, Valid)

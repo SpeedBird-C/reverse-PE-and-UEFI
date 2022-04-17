@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 52D1F0h
+Header address: FFF2C9F0h
+Data address: FFF2C9F4h
+Offset: 3900h
+Type: 15h
+Full size: 10h (16)
+Header size: 4h (4)
+Body size: Ch (12)
+Text: NbPei

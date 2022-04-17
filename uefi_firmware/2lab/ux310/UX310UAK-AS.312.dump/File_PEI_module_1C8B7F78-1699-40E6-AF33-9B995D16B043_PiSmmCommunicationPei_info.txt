@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: PiSmmCommunicationPei
+Fixed: No
+Base: 512058h
+Header address: FFF11858h
+Data address: FFF11870h
+Offset: 71858h
+File GUID: 1C8B7F78-1699-40E6-AF33-9B995D16B043
+Type: 06h
+Attributes: 00h
+Full size: 5B6h (1462)
+Header size: 18h (24)
+Body size: 59Eh (1438)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 50h, valid
+Data checksum: AAh, valid

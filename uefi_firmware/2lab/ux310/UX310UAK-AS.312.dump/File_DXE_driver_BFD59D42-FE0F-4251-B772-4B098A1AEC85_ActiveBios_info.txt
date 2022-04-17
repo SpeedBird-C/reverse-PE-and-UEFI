@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: ActiveBios
+Fixed: No
+Offset: A2428h
+File GUID: BFD59D42-FE0F-4251-B772-4B098A1AEC85
+Type: 07h
+Attributes: 00h
+Full size: 83Eh (2110)
+Header size: 18h (24)
+Body size: 826h (2086)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 0Eh, valid
+Data checksum: AAh, valid

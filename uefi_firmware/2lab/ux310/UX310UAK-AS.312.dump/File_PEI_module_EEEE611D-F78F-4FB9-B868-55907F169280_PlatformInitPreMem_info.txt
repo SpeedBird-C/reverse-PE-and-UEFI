@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: PlatformInitPreMem
+Fixed: No
+Base: 59E0E0h
+Header address: FFF9D8E0h
+Data address: FFF9D8F8h
+Offset: 7D8E0h
+File GUID: EEEE611D-F78F-4FB9-B868-55907F169280
+Type: 06h
+Attributes: 00h
+Full size: 108AEh (67758)
+Header size: 18h (24)
+Body size: 10896h (67734)
+Tail size: 0h (0)
+State: F8h
+Header checksum: AFh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,17 @@
+Type: File
+Subtype: Freeform
+Fixed: No
+Base: 50878h
+Header address: FFA50078h
+Data address: FFA50090h
+Offset: 78h
+File GUID: 414D94AD-998D-47D2-BFCD-4E882241DE32
+Type: 02h
+Attributes: 00h
+Full size: 82Ch (2092)
+Header size: 18h (24)
+Body size: 814h (2068)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E7h, valid
+Data checksum: AAh, valid

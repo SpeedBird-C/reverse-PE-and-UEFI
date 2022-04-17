@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: Ofbd
+Fixed: No
+Offset: 428FA8h
+File GUID: 57E56594-CE95-46AD-9531-3C49310CA7CE
+Type: 0Ah
+Attributes: 00h
+Full size: 7126h (28966)
+Header size: 18h (24)
+Body size: 710Eh (28942)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D7h, valid
+Data checksum: AAh, valid

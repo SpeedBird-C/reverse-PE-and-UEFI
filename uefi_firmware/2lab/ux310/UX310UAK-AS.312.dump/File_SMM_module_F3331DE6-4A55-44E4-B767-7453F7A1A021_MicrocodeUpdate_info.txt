@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: MicrocodeUpdate
+Fixed: No
+Offset: 40B620h
+File GUID: F3331DE6-4A55-44E4-B767-7453F7A1A021
+Type: 0Ah
+Attributes: 00h
+Full size: 55CEh (21966)
+Header size: 18h (24)
+Body size: 55B6h (21942)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A5h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SmmPcieSataController
+Fixed: No
+Offset: 4300D0h
+File GUID: 316B1230-0500-4592-8C09-EABA0FB6B078
+Type: 0Ah
+Attributes: 00h
+Full size: 1476h (5238)
+Header size: 18h (24)
+Body size: 145Eh (5214)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 8Ch, valid
+Data checksum: AAh, valid

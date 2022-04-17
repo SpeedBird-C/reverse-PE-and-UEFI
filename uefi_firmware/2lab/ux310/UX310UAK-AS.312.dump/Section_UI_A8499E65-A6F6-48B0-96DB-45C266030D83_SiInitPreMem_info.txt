@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 59E0ACh
+Header address: FFF9D8ACh
+Data address: FFF9D8B0h
+Offset: 49B8Ch
+Type: 15h
+Full size: 1Eh (30)
+Header size: 4h (4)
+Body size: 1Ah (26)
+Text: SiInitPreMem

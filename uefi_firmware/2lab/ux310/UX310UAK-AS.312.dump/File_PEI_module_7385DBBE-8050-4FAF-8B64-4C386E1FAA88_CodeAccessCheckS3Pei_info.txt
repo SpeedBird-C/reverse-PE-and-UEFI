@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: CodeAccessCheckS3Pei
+Fixed: No
+Base: 5366D8h
+Header address: FFF35ED8h
+Data address: FFF35EF0h
+Offset: 15ED8h
+File GUID: 7385DBBE-8050-4FAF-8B64-4C386E1FAA88
+Type: 06h
+Attributes: 00h
+Full size: 246h (582)
+Header size: 18h (24)
+Body size: 22Eh (558)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 21h, valid
+Data checksum: AAh, valid

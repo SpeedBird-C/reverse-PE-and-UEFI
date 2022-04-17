@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AsusWdtSmm
+Fixed: No
+Offset: 476BD8h
+File GUID: 9A2E9332-1209-4D12-91C1-FD9DBF939B9A
+Type: 0Ah
+Attributes: 00h
+Full size: 92Eh (2350)
+Header size: 18h (24)
+Body size: 916h (2326)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 45h, valid
+Data checksum: AAh, valid

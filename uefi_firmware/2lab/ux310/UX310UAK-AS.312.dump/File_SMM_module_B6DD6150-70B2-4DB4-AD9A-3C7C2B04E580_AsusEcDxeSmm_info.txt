@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AsusEcDxeSmm
+Fixed: No
+Offset: 46C298h
+File GUID: B6DD6150-70B2-4DB4-AD9A-3C7C2B04E580
+Type: 0Ah
+Attributes: 00h
+Full size: 3306h (13062)
+Header size: 18h (24)
+Body size: 32EEh (13038)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C3h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: TcgPlatformSetupPolicy
+Fixed: No
+Offset: 577D78h
+File GUID: 196CA3D8-9A5A-4735-B328-8FFC1D93D188
+Type: 07h
+Attributes: 00h
+Full size: F16h (3862)
+Header size: 18h (24)
+Body size: EFEh (3838)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F5h, valid
+Data checksum: AAh, valid

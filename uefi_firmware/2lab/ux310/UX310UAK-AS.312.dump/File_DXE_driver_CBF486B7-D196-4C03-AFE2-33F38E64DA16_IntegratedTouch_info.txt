@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: IntegratedTouch
+Fixed: No
+Offset: 2980A8h
+File GUID: CBF486B7-D196-4C03-AFE2-33F38E64DA16
+Type: 07h
+Attributes: 00h
+Full size: 26EAh (9962)
+Header size: 18h (24)
+Body size: 26D2h (9938)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 9Eh, valid
+Data checksum: AAh, valid

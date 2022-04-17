@@ -1,0 +1,8 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Offset: 18h
+Type: 19h
+Full size: AC312h (705298)
+Header size: 4h (4)
+Body size: AC30Eh (705294)

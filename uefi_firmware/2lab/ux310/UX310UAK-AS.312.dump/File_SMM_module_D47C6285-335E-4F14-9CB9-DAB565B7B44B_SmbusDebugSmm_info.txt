@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SmbusDebugSmm
+Fixed: No
+Offset: 46A4A0h
+File GUID: D47C6285-335E-4F14-9CB9-DAB565B7B44B
+Type: 0Ah
+Attributes: 00h
+Full size: 1DF6h (7670)
+Header size: 18h (24)
+Body size: 1DDEh (7646)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B9h, valid
+Data checksum: AAh, valid

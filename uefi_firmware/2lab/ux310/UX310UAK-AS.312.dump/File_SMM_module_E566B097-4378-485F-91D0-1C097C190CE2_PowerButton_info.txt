@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: PowerButton
+Fixed: No
+Offset: 3ABF50h
+File GUID: E566B097-4378-485F-91D0-1C097C190CE2
+Type: 0Ah
+Attributes: 00h
+Full size: 16B2h (5810)
+Header size: 18h (24)
+Body size: 169Ah (5786)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 31h, valid
+Data checksum: AAh, valid

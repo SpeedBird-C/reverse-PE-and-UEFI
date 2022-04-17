@@ -1,0 +1,14 @@
+Type: File
+Subtype: Raw
+Fixed: No
+Offset: 582650h
+File GUID: 878AC2CC-5343-46F2-B563-51F89DAF56BA
+Type: 01h
+Attributes: 00h
+Full size: 1218h (4632)
+Header size: 18h (24)
+Body size: 1200h (4608)
+Tail size: 0h (0)
+State: F8h
+Header checksum: ABh, valid
+Data checksum: AAh, valid

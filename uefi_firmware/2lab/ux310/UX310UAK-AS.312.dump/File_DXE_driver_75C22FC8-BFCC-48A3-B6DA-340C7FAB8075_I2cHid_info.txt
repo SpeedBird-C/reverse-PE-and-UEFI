@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: I2cHid
+Fixed: No
+Offset: 1C7230h
+File GUID: 75C22FC8-BFCC-48A3-B6DA-340C7FAB8075
+Type: 07h
+Attributes: 00h
+Full size: 21F6h (8694)
+Header size: 18h (24)
+Body size: 21DEh (8670)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 4Fh, valid
+Data checksum: AAh, valid

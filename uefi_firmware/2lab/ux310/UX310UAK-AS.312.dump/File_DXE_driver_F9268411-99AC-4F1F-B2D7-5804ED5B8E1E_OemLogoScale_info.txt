@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: OemLogoScale
+Fixed: No
+Offset: 18ADD8h
+File GUID: F9268411-99AC-4F1F-B2D7-5804ED5B8E1E
+Type: 07h
+Attributes: 00h
+Full size: 1482h (5250)
+Header size: 18h (24)
+Body size: 146Ah (5226)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 23h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: RomLayoutDxe
+Fixed: No
+Offset: 168h
+File GUID: AB7ED12E-1D78-4635-AB87-23F00A911EC7
+Type: 07h
+Attributes: 00h
+Full size: CC2h (3266)
+Header size: 18h (24)
+Body size: CAAh (3242)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 2Eh, valid
+Data checksum: AAh, valid

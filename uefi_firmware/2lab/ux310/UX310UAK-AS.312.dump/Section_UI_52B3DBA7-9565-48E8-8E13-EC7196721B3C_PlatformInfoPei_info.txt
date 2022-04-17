@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 53345Ch
+Header address: FFF32C5Ch
+Data address: FFF32C60h
+Offset: 694h
+Type: 15h
+Full size: 24h (36)
+Header size: 4h (4)
+Body size: 20h (32)
+Text: PlatformInfoPei

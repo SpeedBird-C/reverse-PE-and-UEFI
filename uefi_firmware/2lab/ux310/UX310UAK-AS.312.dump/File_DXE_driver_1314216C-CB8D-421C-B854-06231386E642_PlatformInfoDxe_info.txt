@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PlatformInfoDxe
+Fixed: No
+Offset: 7F9F8h
+File GUID: 1314216C-CB8D-421C-B854-06231386E642
+Type: 07h
+Attributes: 00h
+Full size: DC6h (3526)
+Header size: 18h (24)
+Body size: DAEh (3502)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C6h, valid
+Data checksum: AAh, valid

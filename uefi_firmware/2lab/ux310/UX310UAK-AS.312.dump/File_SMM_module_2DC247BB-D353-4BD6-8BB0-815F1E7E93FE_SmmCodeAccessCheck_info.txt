@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SmmCodeAccessCheck
+Fixed: No
+Offset: 443300h
+File GUID: 2DC247BB-D353-4BD6-8BB0-815F1E7E93FE
+Type: 0Ah
+Attributes: 00h
+Full size: 15B2h (5554)
+Header size: 18h (24)
+Body size: 159Ah (5530)
+Tail size: 0h (0)
+State: F8h
+Header checksum: AFh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: NvmeSmm
+Fixed: No
+Offset: 426C68h
+File GUID: E5E2C9D9-5BF5-497E-8860-94F81A09ADE0
+Type: 0Ah
+Attributes: 00h
+Full size: 233Ah (9018)
+Header size: 18h (24)
+Body size: 2322h (8994)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F5h, valid
+Data checksum: AAh, valid

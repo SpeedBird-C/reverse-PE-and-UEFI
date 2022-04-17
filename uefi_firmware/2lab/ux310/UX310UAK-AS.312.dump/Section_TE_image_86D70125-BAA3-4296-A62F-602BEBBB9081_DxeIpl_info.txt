@@ -1,0 +1,20 @@
+Type: Section
+Subtype: TE image
+Fixed: No
+Base: 4C290Ch
+Header address: FFEC210Ch
+Data address: FFEC2110h
+Offset: 54h
+Type: 12h
+Full size: 340Ch (13324)
+Header size: 4h (4)
+Body size: 3408h (13320)
+Signature: 5A56h
+Machine type: x86
+Number of sections: 3
+Subsystem: 0Bh
+Stripped size: 1C0h (448)
+Base of code: 240h
+Address of entry point: 240h
+Image base: FFEC1F78h
+Adjusted image base: FFEC2110h

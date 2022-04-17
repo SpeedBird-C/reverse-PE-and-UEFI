@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: FirmwareVersionInfoDxe
+Fixed: No
+Offset: 7B7C8h
+File GUID: CEE33516-58E3-47DB-BB3F-2758B5A76C28
+Type: 07h
+Attributes: 00h
+Full size: 199Ah (6554)
+Header size: 18h (24)
+Body size: 1982h (6530)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 84h, valid
+Data checksum: AAh, valid

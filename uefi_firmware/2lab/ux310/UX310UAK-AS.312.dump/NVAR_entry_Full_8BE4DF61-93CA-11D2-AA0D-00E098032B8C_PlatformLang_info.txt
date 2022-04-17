@@ -1,0 +1,14 @@
+Type: NVAR entry
+Subtype: Full
+Text: PlatformLang
+Fixed: Yes
+Base: 218D5h
+Header address: FFA210D5h
+Data address: FFA210EDh
+Offset: 1045h
+Variable GUID: 8BE4DF61-93CA-11D2-AA0D-00E098032B8C
+GUID index: 1
+Full size: 1Eh (30)
+Header size: 18h (24)
+Body size: 6h (6)
+Attributes: 83h (Runtime, AsciiName, Valid)

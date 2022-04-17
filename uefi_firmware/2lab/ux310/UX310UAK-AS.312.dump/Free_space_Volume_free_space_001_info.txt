@@ -1,0 +1,7 @@
+Type: Free space
+Subtype: 
+Fixed: No
+Base: 3C4978h
+Address: FFDC4178h
+Offset: 374178h
+Full size: 4BE88h (310920)

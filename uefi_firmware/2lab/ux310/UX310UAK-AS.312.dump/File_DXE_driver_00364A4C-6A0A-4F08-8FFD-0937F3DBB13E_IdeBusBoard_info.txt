@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: IdeBusBoard
+Fixed: No
+Offset: 18A278h
+File GUID: 00364A4C-6A0A-4F08-8FFD-0937F3DBB13E
+Type: 07h
+Attributes: 00h
+Full size: B5Eh (2910)
+Header size: 18h (24)
+Body size: B46h (2886)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 70h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CsmDxe
+Fixed: No
+Offset: 1AA098h
+File GUID: A062CF1F-8473-4AA3-8793-600BC4FFE9A8
+Type: 07h
+Attributes: 00h
+Full size: F48Eh (62606)
+Header size: 18h (24)
+Body size: F476h (62582)
+Tail size: 0h (0)
+State: F8h
+Header checksum: CAh, valid
+Data checksum: AAh, valid

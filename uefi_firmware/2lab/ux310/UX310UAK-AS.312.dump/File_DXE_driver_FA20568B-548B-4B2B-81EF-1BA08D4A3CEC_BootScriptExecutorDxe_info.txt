@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: BootScriptExecutorDxe
+Fixed: No
+Offset: 181238h
+File GUID: FA20568B-548B-4B2B-81EF-1BA08D4A3CEC
+Type: 07h
+Attributes: 00h
+Full size: 88E2h (35042)
+Header size: 18h (24)
+Body size: 88CAh (35018)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 15h, valid
+Data checksum: AAh, valid

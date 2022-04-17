@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: ChargeLedDebugDxe
+Fixed: No
+Offset: 234B98h
+File GUID: 614778F8-B85F-438E-9674-52DE7E32EAA2
+Type: 07h
+Attributes: 00h
+Full size: 71Ah (1818)
+Header size: 18h (24)
+Body size: 702h (1794)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 62h, valid
+Data checksum: AAh, valid

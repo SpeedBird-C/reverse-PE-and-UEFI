@@ -1,0 +1,7 @@
+Type: Padding
+Subtype: Non-empty
+Fixed: Yes
+Base: 800h
+Address: FFA00000h
+Offset: 0h
+Full size: 20000h (131072)

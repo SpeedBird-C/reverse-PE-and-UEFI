@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: EcPs2Kbd
+Fixed: No
+Offset: 357408h
+File GUID: 2F72309E-D5B0-4A9D-84A9-1AB38C698F78
+Type: 07h
+Attributes: 00h
+Full size: 155Ah (5466)
+Header size: 18h (24)
+Body size: 1542h (5442)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B9h, valid
+Data checksum: AAh, valid

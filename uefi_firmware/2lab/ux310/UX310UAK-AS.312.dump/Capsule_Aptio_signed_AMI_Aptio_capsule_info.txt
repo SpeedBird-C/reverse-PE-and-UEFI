@@ -1,0 +1,12 @@
+Type: Capsule
+Subtype: Aptio signed
+Fixed: Yes
+Base: 0h
+Header address: FF9FF800h
+Data address: FFA00000h
+Offset: 0h
+Capsule GUID: 4A3CA68B-7723-48FB-803D-578CC1FEC44D
+Full size: 600800h (6293504)
+Header size: 800h (2048)
+Image size: 600000h (6291456)
+Flags: 00010001h

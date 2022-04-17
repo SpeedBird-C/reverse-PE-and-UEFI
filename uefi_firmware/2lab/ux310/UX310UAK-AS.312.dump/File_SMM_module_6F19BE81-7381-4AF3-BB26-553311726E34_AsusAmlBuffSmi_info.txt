@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AsusAmlBuffSmi
+Fixed: No
+Offset: 466E70h
+File GUID: 6F19BE81-7381-4AF3-BB26-553311726E34
+Type: 0Ah
+Attributes: 00h
+Full size: 14FAh (5370)
+Header size: 18h (24)
+Body size: 14E2h (5346)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 62h, valid
+Data checksum: AAh, valid

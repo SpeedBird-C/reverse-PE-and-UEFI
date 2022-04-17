@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: OemActivation
+Fixed: No
+Offset: 2375A0h
+File GUID: 89F639BD-092D-4952-BEC8-F1F05FE3409C
+Type: 07h
+Attributes: 00h
+Full size: CB2h (3250)
+Header size: 18h (24)
+Body size: C9Ah (3226)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 70h, valid
+Data checksum: AAh, valid

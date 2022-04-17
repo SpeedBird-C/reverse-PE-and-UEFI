@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: RstOneClickEnable
+Fixed: No
+Offset: 295FD8h
+File GUID: 3DC5DC4A-824A-44C5-89D0-D4547191E3F4
+Type: 07h
+Attributes: 00h
+Full size: A0Eh (2574)
+Header size: 18h (24)
+Body size: 9F6h (2550)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 8Ah, valid
+Data checksum: AAh, valid

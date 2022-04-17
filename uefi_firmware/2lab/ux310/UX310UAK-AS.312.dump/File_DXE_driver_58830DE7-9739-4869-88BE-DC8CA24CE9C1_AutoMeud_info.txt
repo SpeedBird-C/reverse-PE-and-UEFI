@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AutoMeud
+Fixed: No
+Offset: 556D30h
+File GUID: 58830DE7-9739-4869-88BE-DC8CA24CE9C1
+Type: 07h
+Attributes: 00h
+Full size: 5C3Ah (23610)
+Header size: 18h (24)
+Body size: 5C22h (23586)
+Tail size: 0h (0)
+State: F8h
+Header checksum: CDh, valid
+Data checksum: AAh, valid

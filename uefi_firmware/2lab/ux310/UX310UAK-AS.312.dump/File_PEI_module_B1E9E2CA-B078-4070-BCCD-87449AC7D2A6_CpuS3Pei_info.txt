@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: CpuS3Pei
+Fixed: No
+Base: 4EA6A0h
+Header address: FFEE9EA0h
+Data address: FFEE9EB8h
+Offset: 49EA0h
+File GUID: B1E9E2CA-B078-4070-BCCD-87449AC7D2A6
+Type: 06h
+Attributes: 00h
+Full size: AFAh (2810)
+Header size: 18h (24)
+Body size: AE2h (2786)
+Tail size: 0h (0)
+State: F8h
+Header checksum: ABh, valid
+Data checksum: AAh, valid

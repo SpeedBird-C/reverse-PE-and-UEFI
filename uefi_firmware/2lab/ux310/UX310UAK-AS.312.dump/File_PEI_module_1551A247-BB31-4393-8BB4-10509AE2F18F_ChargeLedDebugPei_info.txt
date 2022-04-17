@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: ChargeLedDebugPei
+Fixed: No
+Base: 538490h
+Header address: FFF37C90h
+Data address: FFF37CA8h
+Offset: 17C90h
+File GUID: 1551A247-BB31-4393-8BB4-10509AE2F18F
+Type: 06h
+Attributes: 00h
+Full size: 28Ah (650)
+Header size: 18h (24)
+Body size: 272h (626)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C2h, valid
+Data checksum: AAh, valid

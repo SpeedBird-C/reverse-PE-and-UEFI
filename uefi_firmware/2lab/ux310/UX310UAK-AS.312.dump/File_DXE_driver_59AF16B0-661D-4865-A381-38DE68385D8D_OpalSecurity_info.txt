@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: OpalSecurity
+Fixed: No
+Offset: 1D7850h
+File GUID: 59AF16B0-661D-4865-A381-38DE68385D8D
+Type: 07h
+Attributes: 00h
+Full size: 1502h (5378)
+Header size: 18h (24)
+Body size: 14EAh (5354)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 20h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,8 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Offset: 1FCCh
+Type: 19h
+Full size: EE2h (3810)
+Header size: 4h (4)
+Body size: EDEh (3806)

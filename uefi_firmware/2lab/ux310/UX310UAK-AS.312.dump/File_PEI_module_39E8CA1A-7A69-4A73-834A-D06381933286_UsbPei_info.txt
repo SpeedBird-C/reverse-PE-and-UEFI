@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: UsbPei
+Fixed: No
+Base: 50CD88h
+Header address: FFF0C588h
+Data address: FFF0C5A0h
+Offset: 6C588h
+File GUID: 39E8CA1A-7A69-4A73-834A-D06381933286
+Type: 06h
+Attributes: 00h
+Full size: 306Bh (12395)
+Header size: 18h (24)
+Body size: 3053h (12371)
+Tail size: 0h (0)
+State: F8h
+Header checksum: EEh, valid
+Data checksum: AAh, valid

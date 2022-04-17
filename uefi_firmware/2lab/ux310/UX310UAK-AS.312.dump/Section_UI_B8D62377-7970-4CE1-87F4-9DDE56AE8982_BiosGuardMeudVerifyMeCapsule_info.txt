@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 535B20h
+Header address: FFF35320h
+Data address: FFF35324h
+Offset: 10B0h
+Type: 15h
+Full size: 3Eh (62)
+Header size: 4h (4)
+Body size: 3Ah (58)
+Text: BiosGuardMeudVerifyMeCapsule

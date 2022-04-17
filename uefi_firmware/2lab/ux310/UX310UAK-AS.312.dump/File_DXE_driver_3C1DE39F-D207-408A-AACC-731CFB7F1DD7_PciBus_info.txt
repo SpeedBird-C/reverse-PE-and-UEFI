@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PciBus
+Fixed: No
+Offset: 2AB250h
+File GUID: 3C1DE39F-D207-408A-AACC-731CFB7F1DD7
+Type: 07h
+Attributes: 00h
+Full size: FD3Eh (64830)
+Header size: 18h (24)
+Body size: FD26h (64806)
+Tail size: 0h (0)
+State: F8h
+Header checksum: CDh, valid
+Data checksum: AAh, valid

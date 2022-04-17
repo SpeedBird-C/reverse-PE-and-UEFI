@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Dhcp4Dxe
+Fixed: No
+Offset: 2FD830h
+File GUID: 94734718-0BBC-47FB-96A5-EE7A5AE6A2AD
+Type: 07h
+Attributes: 00h
+Full size: 81E2h (33250)
+Header size: 18h (24)
+Body size: 81CAh (33226)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F5h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AsusAmlBuffDxe
+Fixed: No
+Offset: 231AA8h
+File GUID: 099CFA27-134F-449A-AF4A-D29C441CB521
+Type: 07h
+Attributes: 00h
+Full size: 11C6h (4550)
+Header size: 18h (24)
+Body size: 11AEh (4526)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 7Fh, valid
+Data checksum: AAh, valid

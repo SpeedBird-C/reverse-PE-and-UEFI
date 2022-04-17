@@ -1,0 +1,8 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Offset: 3D24h
+Type: 19h
+Full size: 34Ah (842)
+Header size: 4h (4)
+Body size: 346h (838)

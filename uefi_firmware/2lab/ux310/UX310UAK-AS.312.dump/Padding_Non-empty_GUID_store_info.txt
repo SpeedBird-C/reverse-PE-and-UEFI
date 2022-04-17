@@ -1,0 +1,8 @@
+Type: Padding
+Subtype: Non-empty
+Fixed: Yes
+Base: 21B80h
+Address: FFA21380h
+Offset: 12F0h
+Full size: C0h (192)
+GUIDs in store: 12

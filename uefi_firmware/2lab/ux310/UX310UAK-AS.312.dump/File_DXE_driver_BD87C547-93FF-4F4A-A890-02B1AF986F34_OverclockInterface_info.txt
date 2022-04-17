@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: OverclockInterface
+Fixed: No
+Offset: 764E8h
+File GUID: BD87C547-93FF-4F4A-A890-02B1AF986F34
+Type: 07h
+Attributes: 00h
+Full size: 52DAh (21210)
+Header size: 18h (24)
+Body size: 52C2h (21186)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 7Dh, valid
+Data checksum: AAh, valid

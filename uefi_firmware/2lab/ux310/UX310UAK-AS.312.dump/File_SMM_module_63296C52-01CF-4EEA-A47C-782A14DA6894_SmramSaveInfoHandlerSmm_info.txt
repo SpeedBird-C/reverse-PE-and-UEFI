@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SmramSaveInfoHandlerSmm
+Fixed: No
+Offset: 3CC1E0h
+File GUID: 63296C52-01CF-4EEA-A47C-782A14DA6894
+Type: 0Ah
+Attributes: 00h
+Full size: A6Ah (2666)
+Header size: 18h (24)
+Body size: A52h (2642)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 84h, valid
+Data checksum: AAh, valid

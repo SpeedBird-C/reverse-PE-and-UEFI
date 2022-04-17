@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: NbPei
+Fixed: No
+Base: 5298F0h
+Header address: FFF290F0h
+Data address: FFF29108h
+Offset: 90F0h
+File GUID: 79AA6086-035A-4AD9-A89A-A6D5AA27F0E2
+Type: 06h
+Attributes: 00h
+Full size: 391Eh (14622)
+Header size: 18h (24)
+Body size: 3906h (14598)
+Tail size: 0h (0)
+State: F8h
+Header checksum: BAh, valid
+Data checksum: AAh, valid

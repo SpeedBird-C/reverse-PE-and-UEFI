@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: BiosGuardCpuPolicyOverride
+Fixed: No
+Base: 4AF3E0h
+Header address: FFEAEBE0h
+Data address: FFEAEBF8h
+Offset: EBE0h
+File GUID: FAF79E9F-4D40-4F02-8AC9-4B5512708F7F
+Type: 06h
+Attributes: 00h
+Full size: 153Eh (5438)
+Header size: 18h (24)
+Body size: 1526h (5414)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 18h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 527104h
+Header address: FFF26904h
+Data address: FFF26908h
+Offset: 5A2Ch
+Type: 15h
+Full size: 14h (20)
+Header size: 4h (4)
+Body size: 10h (16)
+Text: PeiCore

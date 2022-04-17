@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: AsusEcPei
+Fixed: No
+Base: 538C88h
+Header address: FFF38488h
+Data address: FFF384A0h
+Offset: 18488h
+File GUID: C41E9862-D078-4E7D-9062-00E3FAC34C19
+Type: 06h
+Attributes: 00h
+Full size: 78Ah (1930)
+Header size: 18h (24)
+Body size: 772h (1906)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 83h, valid
+Data checksum: AAh, valid

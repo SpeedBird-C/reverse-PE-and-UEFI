@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 5386E4h
+Header address: FFF37EE4h
+Data address: FFF37EE8h
+Offset: 254h
+Type: 15h
+Full size: 28h (40)
+Header size: 4h (4)
+Body size: 24h (36)
+Text: ChargeLedDebugPei

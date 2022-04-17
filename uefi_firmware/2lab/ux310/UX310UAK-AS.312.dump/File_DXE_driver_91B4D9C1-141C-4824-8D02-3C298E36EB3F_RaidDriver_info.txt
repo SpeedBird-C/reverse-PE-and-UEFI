@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: RaidDriver
+Fixed: No
+Offset: 4D28F0h
+File GUID: 91B4D9C1-141C-4824-8D02-3C298E36EB3F
+Type: 07h
+Attributes: 00h
+Full size: 12DCDh (77261)
+Header size: 18h (24)
+Body size: 12DB5h (77237)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A1h, valid
+Data checksum: AAh, valid

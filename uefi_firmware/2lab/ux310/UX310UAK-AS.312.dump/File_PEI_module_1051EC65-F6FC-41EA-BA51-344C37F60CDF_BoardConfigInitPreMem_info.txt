@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: BoardConfigInitPreMem
+Fixed: No
+Base: 5469A0h
+Header address: FFF461A0h
+Data address: FFF461B8h
+Offset: 261A0h
+File GUID: 1051EC65-F6FC-41EA-BA51-344C37F60CDF
+Type: 06h
+Attributes: 00h
+Full size: DB7Ah (56186)
+Header size: 18h (24)
+Body size: DB62h (56162)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 33h, valid
+Data checksum: AAh, valid

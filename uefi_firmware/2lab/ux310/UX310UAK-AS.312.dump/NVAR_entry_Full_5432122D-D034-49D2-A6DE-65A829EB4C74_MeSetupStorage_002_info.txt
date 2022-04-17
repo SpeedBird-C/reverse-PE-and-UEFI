@@ -1,0 +1,14 @@
+Type: NVAR entry
+Subtype: Full
+Text: MeSetupStorage
+Fixed: Yes
+Base: 5B3A68h
+Header address: FFFB3268h
+Data address: FFFB3282h
+Offset: 10F8h
+Variable GUID: 5432122D-D034-49D2-A6DE-65A829EB4C74
+GUID index: 4
+Full size: 24h (36)
+Header size: 1Ah (26)
+Body size: Ah (10)
+Attributes: 82h (AsciiName, Valid)

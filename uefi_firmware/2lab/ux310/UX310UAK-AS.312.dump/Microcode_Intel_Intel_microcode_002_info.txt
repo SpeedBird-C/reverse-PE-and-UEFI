@@ -1,0 +1,15 @@
+Type: Microcode
+Subtype: Intel
+Fixed: Yes
+Base: 440000h
+Address: FFE3F800h
+Offset: 2F418h
+Full size: 18000h (98304)
+Header size: 0h (0u)
+Body size: 18000h (98304)
+Tail size: 0h (0u)
+Date: 24.03.2018
+CPU signature: 000806E9h
+Revision: 0000008Eh
+CPU flags: C0h
+Checksum: 44706881h, valid

@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: PlatformInit
+Fixed: No
+Base: 4B0920h
+Header address: FFEB0120h
+Data address: FFEB0138h
+Offset: 10120h
+File GUID: 59ADD62D-A1C0-44C5-A90F-A1168770468C
+Type: 06h
+Attributes: 00h
+Full size: 10966h (67942)
+Header size: 18h (24)
+Body size: 1094Eh (67918)
+Tail size: 0h (0)
+State: F8h
+Header checksum: DFh, valid
+Data checksum: AAh, valid

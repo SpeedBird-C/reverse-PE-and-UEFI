@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: AhciRecovery
+Fixed: No
+Base: 512610h
+Header address: FFF11E10h
+Data address: FFF11E28h
+Offset: 71E10h
+File GUID: BDAD7D1A-4C48-4C75-B5BC-D002D17F6397
+Type: 06h
+Attributes: 00h
+Full size: 2476h (9334)
+Header size: 18h (24)
+Body size: 245Eh (9310)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 7Dh, valid
+Data checksum: AAh, valid

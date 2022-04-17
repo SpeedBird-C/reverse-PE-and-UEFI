@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: AsusEcPeiBiosReady
+Fixed: No
+Base: 538720h
+Header address: FFF37F20h
+Data address: FFF37F38h
+Offset: 17F20h
+File GUID: F12DF3A4-6A2E-44BD-A3F9-2135A04E19E2
+Type: 06h
+Attributes: 00h
+Full size: 566h (1382)
+Header size: 18h (24)
+Body size: 54Eh (1358)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 66h, valid
+Data checksum: AAh, valid

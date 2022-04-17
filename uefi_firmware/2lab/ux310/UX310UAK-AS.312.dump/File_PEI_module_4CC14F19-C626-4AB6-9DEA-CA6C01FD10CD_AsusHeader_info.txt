@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: AsusHeader
+Fixed: No
+Base: 539418h
+Header address: FFF38C18h
+Data address: FFF38C30h
+Offset: 18C18h
+File GUID: 4CC14F19-C626-4AB6-9DEA-CA6C01FD10CD
+Type: 06h
+Attributes: 00h
+Full size: 20Eh (526)
+Header size: 18h (24)
+Body size: 1F6h (502)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F1h, valid
+Data checksum: AAh, valid

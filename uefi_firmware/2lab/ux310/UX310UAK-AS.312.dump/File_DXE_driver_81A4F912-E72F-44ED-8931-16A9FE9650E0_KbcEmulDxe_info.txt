@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: KbcEmulDxe
+Fixed: No
+Offset: 1CAD38h
+File GUID: 81A4F912-E72F-44ED-8931-16A9FE9650E0
+Type: 07h
+Attributes: 00h
+Full size: 1082h (4226)
+Header size: 18h (24)
+Body size: 106Ah (4202)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B3h, valid
+Data checksum: AAh, valid

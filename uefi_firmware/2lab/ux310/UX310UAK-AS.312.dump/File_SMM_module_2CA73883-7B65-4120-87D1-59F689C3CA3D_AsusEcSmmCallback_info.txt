@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AsusEcSmmCallback
+Fixed: No
+Offset: 46F5A0h
+File GUID: 2CA73883-7B65-4120-87D1-59F689C3CA3D
+Type: 0Ah
+Attributes: 00h
+Full size: 5366h (21350)
+Header size: 18h (24)
+Body size: 534Eh (21326)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 74h, valid
+Data checksum: AAh, valid

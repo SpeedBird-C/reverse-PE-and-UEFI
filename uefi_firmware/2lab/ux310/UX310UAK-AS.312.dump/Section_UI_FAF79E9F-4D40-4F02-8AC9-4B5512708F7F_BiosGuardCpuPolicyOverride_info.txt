@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 4B08D4h
+Header address: FFEB00D4h
+Data address: FFEB00D8h
+Offset: 14F4h
+Type: 15h
+Full size: 3Ah (58)
+Header size: 4h (4)
+Body size: 36h (54)
+Text: BiosGuardCpuPolicyOverride

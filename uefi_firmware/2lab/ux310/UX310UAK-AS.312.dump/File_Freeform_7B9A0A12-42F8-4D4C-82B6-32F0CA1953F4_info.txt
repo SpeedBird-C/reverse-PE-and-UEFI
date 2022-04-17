@@ -1,0 +1,17 @@
+Type: File
+Subtype: Freeform
+Fixed: No
+Base: 510A8h
+Header address: FFA508A8h
+Data address: FFA508C0h
+Offset: 8A8h
+File GUID: 7B9A0A12-42F8-4D4C-82B6-32F0CA1953F4
+Type: 02h
+Attributes: 00h
+Full size: 8E28h (36392)
+Header size: 18h (24)
+Body size: 8E10h (36368)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C0h, valid
+Data checksum: AAh, valid

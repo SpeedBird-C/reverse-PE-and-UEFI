@@ -1,0 +1,7 @@
+Type: Free space
+Subtype: 
+Fixed: Yes
+Base: 5B3D20h
+Address: FFFB3520h
+Offset: 13C8h
+Full size: 10h (16)

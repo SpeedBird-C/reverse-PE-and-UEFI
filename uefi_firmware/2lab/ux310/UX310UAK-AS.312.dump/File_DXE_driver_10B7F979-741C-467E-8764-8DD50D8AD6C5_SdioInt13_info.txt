@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SdioInt13
+Fixed: No
+Offset: 1DBD28h
+File GUID: 10B7F979-741C-467E-8764-8DD50D8AD6C5
+Type: 07h
+Attributes: 00h
+Full size: F1Eh (3870)
+Header size: 18h (24)
+Body size: F06h (3846)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C0h, valid
+Data checksum: AAh, valid

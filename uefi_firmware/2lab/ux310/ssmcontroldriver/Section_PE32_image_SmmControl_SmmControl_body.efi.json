@@ -1,0 +1,76 @@
+{
+    "bs_all": {
+        "CreateEventEx": [
+            4513,
+            4513
+        ],
+        "InstallMultipleProtocolInterfaces": [
+            4459
+        ]
+    },
+    "bs_protocols": {
+        "CloseProtocol": [],
+        "HandleProtocol": [],
+        "InstallMultipleProtocolInterfaces": [
+            4459
+        ],
+        "InstallProtocolInterface": [],
+        "LocateHandleBuffer": [],
+        "LocateProtocol": [],
+        "OpenProtocol": [],
+        "OpenProtocolInformation": [],
+        "ProtocolsPerHandle": [],
+        "RegisterProtocolNotify": [],
+        "ReinstallProtocolInterface": [],
+        "UninstallMultipleProtocolInterfaces": [],
+        "UninstallProtocolInterface": []
+    },
+    "gBS": [
+        9504
+    ],
+    "gImageHandle": [],
+    "gRT": [
+        9512
+    ],
+    "gST": [
+        9496
+    ],
+    "gSmst": [],
+    "pei_all": null,
+    "protocols": [
+        {
+            "address": 8208,
+            "guid": [
+                2218641184,
+                43806,
+                17099,
+                147,
+                87,
+                138,
+                0,
+                120,
+                243,
+                86,
+                27
+            ],
+            "prot_name": "EFI_SMM_CONTROL2_PROTOCOL_GUID",
+            "service": "InstallMultipleProtocolInterfaces",
+            "xref": 4431
+        }
+    ],
+    "rt_all": {
+        "ConvertPointer": [
+            4571
+        ]
+    },
+    "smi_handlers": [],
+    "smm_all": null,
+    "smm_protocols": {
+        "SmmHandleProtocol": [],
+        "SmmInstallProtocolInterface": [],
+        "SmmLocateHandle": [],
+        "SmmLocateProtocol": [],
+        "SmmRegisterProtocolNotify": [],
+        "SmmUninstallProtocolInterface": []
+    }
+}

@@ -1,0 +1,11 @@
+Type: NVAR entry
+Subtype: Full
+Text: AsusSetupIoInterface
+Fixed: Yes
+Offset: 116Dh
+Variable GUID: EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9
+GUID index: 0
+Full size: 3Dh (61)
+Header size: 20h (32)
+Body size: 1Dh (29)
+Attributes: 82h (AsciiName, Valid)

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: FlashDriverSmm
+Fixed: No
+Offset: 390418h
+File GUID: 0C375A90-4C4C-4428-8EA0-531BE8959BF7
+Type: 0Ah
+Attributes: 00h
+Full size: 596Ah (22890)
+Header size: 18h (24)
+Body size: 5952h (22866)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 57h, valid
+Data checksum: AAh, valid

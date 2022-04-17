@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Tpm20Acpi
+Fixed: No
+Offset: 203610h
+File GUID: 4C8BDF60-2085-4577-8A46-96CB180967BC
+Type: 07h
+Attributes: 00h
+Full size: 1202h (4610)
+Header size: 18h (24)
+Body size: 11EAh (4586)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F9h, valid
+Data checksum: AAh, valid

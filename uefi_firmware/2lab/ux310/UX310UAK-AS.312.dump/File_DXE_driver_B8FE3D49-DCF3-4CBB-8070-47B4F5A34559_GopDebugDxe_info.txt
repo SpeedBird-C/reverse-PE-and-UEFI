@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: GopDebugDxe
+Fixed: No
+Offset: 7E380h
+File GUID: B8FE3D49-DCF3-4CBB-8070-47B4F5A34559
+Type: 07h
+Attributes: 00h
+Full size: 61Eh (1566)
+Header size: 18h (24)
+Body size: 606h (1542)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A2h, valid
+Data checksum: AAh, valid

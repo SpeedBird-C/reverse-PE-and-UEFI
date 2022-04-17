@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SmmThunk
+Fixed: No
+Offset: 417C70h
+File GUID: 330AA623-79E7-467C-81AA-DE9EE0F96A52
+Type: 0Ah
+Attributes: 00h
+Full size: 1FBEh (8126)
+Header size: 18h (24)
+Body size: 1FA6h (8102)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B5h, valid
+Data checksum: AAh, valid

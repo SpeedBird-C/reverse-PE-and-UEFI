@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PlatformSetup
+Fixed: No
+Offset: 81688h
+File GUID: A4F2909C-5E2A-438A-91BA-272B0923049A
+Type: 07h
+Attributes: 00h
+Full size: 325Ah (12890)
+Header size: 18h (24)
+Body size: 3242h (12866)
+Tail size: 0h (0)
+State: F8h
+Header checksum: EFh, valid
+Data checksum: AAh, valid

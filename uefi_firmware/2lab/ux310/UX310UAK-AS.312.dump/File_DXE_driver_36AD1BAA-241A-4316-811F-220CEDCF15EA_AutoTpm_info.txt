@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AutoTpm
+Fixed: No
+Offset: 23AEC0h
+File GUID: 36AD1BAA-241A-4316-811F-220CEDCF15EA
+Type: 07h
+Attributes: 00h
+Full size: B5Ah (2906)
+Header size: 18h (24)
+Body size: B42h (2882)
+Tail size: 0h (0)
+State: F8h
+Header checksum: CCh, valid
+Data checksum: AAh, valid

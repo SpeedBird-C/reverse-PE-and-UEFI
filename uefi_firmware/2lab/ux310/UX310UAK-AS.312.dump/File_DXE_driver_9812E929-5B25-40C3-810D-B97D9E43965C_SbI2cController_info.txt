@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SbI2cController
+Fixed: No
+Offset: 6C310h
+File GUID: 9812E929-5B25-40C3-810D-B97D9E43965C
+Type: 07h
+Attributes: 00h
+Full size: 10C6h (4294)
+Header size: 18h (24)
+Body size: 10AEh (4270)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 4Dh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,11 @@
+Type: NVAR entry
+Subtype: Full
+Text: Setup
+Fixed: Yes
+Offset: 17h
+Variable GUID: EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9
+GUID index: 0
+Full size: 102Eh (4142)
+Header size: 11h (17)
+Body size: 101Dh (4125)
+Attributes: 82h (AsciiName, Valid)

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SleepSmi
+Fixed: No
+Offset: 3B0AE0h
+File GUID: 6298FE18-D5EF-42B7-BB0C-2953283F5704
+Type: 0Ah
+Attributes: 00h
+Full size: 3DAEh (15790)
+Header size: 18h (24)
+Body size: 3D96h (15766)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 39h, valid
+Data checksum: AAh, valid

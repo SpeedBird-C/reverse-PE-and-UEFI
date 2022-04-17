@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: ACPI
+Fixed: No
+Offset: 174FF8h
+File GUID: 16D0A23E-C09C-407D-A14A-AD058FDD0CA1
+Type: 07h
+Attributes: 00h
+Full size: 8D16h (36118)
+Header size: 18h (24)
+Body size: 8CFEh (36094)
+Tail size: 0h (0)
+State: F8h
+Header checksum: C1h, valid
+Data checksum: AAh, valid

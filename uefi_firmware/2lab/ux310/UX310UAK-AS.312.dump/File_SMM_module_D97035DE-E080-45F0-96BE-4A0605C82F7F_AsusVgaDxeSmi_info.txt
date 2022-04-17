@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AsusVgaDxeSmi
+Fixed: No
+Offset: 57E9E8h
+File GUID: D97035DE-E080-45F0-96BE-4A0605C82F7F
+Type: 0Ah
+Attributes: 00h
+Full size: 289Ah (10394)
+Header size: 18h (24)
+Body size: 2882h (10370)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 24h, valid
+Data checksum: AAh, valid

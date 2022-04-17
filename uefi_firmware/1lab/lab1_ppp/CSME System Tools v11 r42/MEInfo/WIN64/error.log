@@ -1,0 +1,10 @@
+
+Error 57: Failed getting variable "Intel(R) PTT Supported",
+Please make sure you are running on appropriate SKU
+
+
+          Not set
+PTT Lockout Override Counter                 0x0
+EK Revoke State                              Not Revoked
+PTT RTC Clear Detection FPF                  0x1
+                                             

@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 5393ECh
+Header address: FFF38BECh
+Data address: FFF38BF0h
+Offset: 764h
+Type: 15h
+Full size: 18h (24)
+Header size: 4h (4)
+Body size: 14h (20)
+Text: AsusEcPei

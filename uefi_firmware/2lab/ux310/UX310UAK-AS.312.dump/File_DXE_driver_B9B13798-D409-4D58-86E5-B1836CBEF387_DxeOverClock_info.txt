@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: DxeOverClock
+Fixed: No
+Offset: 73458h
+File GUID: B9B13798-D409-4D58-86E5-B1836CBEF387
+Type: 07h
+Attributes: 00h
+Full size: 308Eh (12430)
+Header size: 18h (24)
+Body size: 3076h (12406)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 3Dh, valid
+Data checksum: AAh, valid

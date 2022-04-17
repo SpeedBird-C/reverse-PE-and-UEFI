@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 532D9Ch
+Header address: FFF3259Ch
+Data address: FFF325A0h
+Offset: 224h
+Type: 15h
+Full size: 18h (24)
+Header size: 4h (4)
+Body size: 14h (20)
+Text: AmiTxtPei

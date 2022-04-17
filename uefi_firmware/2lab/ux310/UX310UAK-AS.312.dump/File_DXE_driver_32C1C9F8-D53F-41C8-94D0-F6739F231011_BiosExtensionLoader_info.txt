@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: BiosExtensionLoader
+Fixed: No
+Offset: B5B90h
+File GUID: 32C1C9F8-D53F-41C8-94D0-F6739F231011
+Type: 07h
+Attributes: 00h
+Full size: 62E2h (25314)
+Header size: 18h (24)
+Body size: 62CAh (25290)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 34h, valid
+Data checksum: AAh, valid

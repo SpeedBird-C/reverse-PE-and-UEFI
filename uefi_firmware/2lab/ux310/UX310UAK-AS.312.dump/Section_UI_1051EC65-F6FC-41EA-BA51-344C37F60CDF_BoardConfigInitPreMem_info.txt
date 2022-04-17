@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 5544DCh
+Header address: FFF53CDCh
+Data address: FFF53CE0h
+Offset: DB3Ch
+Type: 15h
+Full size: 30h (48)
+Header size: 4h (4)
+Body size: 2Ch (44)
+Text: BoardConfigInitPreMem

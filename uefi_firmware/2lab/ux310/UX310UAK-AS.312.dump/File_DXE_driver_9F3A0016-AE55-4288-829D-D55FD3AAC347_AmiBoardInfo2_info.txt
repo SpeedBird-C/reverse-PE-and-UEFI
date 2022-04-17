@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AmiBoardInfo2
+Fixed: No
+Offset: 19E2C0h
+File GUID: 9F3A0016-AE55-4288-829D-D55FD3AAC347
+Type: 07h
+Attributes: 00h
+Full size: 1102h (4354)
+Header size: 18h (24)
+Body size: 10EAh (4330)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 50h, valid
+Data checksum: AAh, valid

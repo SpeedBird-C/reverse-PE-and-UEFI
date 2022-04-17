@@ -1,0 +1,17 @@
+Type: File
+Subtype: Raw
+Fixed: No
+Base: 5B3D40h
+Header address: FFFB3540h
+Data address: FFFB3558h
+Offset: 93540h
+File GUID: 7934156D-CFCE-460E-92F5-A07909A59ECA
+Type: 01h
+Attributes: 00h
+Full size: 795Ch (31068)
+Header size: 18h (24)
+Body size: 7944h (31044)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 54h, valid
+Data checksum: AAh, valid

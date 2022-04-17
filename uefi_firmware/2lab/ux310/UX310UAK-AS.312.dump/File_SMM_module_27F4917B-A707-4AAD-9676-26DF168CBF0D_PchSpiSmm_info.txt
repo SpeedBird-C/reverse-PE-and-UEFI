@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: PchSpiSmm
+Fixed: No
+Offset: 3F7658h
+File GUID: 27F4917B-A707-4AAD-9676-26DF168CBF0D
+Type: 0Ah
+Attributes: 00h
+Full size: 137Eh (4990)
+Header size: 18h (24)
+Body size: 1366h (4966)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 1Ah, valid
+Data checksum: AAh, valid

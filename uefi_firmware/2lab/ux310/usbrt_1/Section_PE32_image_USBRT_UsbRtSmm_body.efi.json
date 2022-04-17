@@ -1,0 +1,235 @@
+{
+    "bs_all": {
+        "AllocatePages": [
+            3195,
+            3222,
+            3222,
+            3311,
+            3311,
+            3338,
+            3338
+        ],
+        "LocateProtocol": [
+            3696,
+            21054,
+            104401,
+            104401
+        ],
+        "RaiseTPL": [
+            104353
+        ],
+        "SetMem": [
+            3264,
+            3264,
+            3380,
+            3380
+        ]
+    },
+    "bs_protocols": {
+        "CloseProtocol": [],
+        "HandleProtocol": [],
+        "InstallMultipleProtocolInterfaces": [],
+        "InstallProtocolInterface": [],
+        "LocateHandleBuffer": [],
+        "LocateProtocol": [
+            848,
+            3696,
+            21054,
+            104401
+        ],
+        "OpenProtocol": [],
+        "OpenProtocolInformation": [],
+        "ProtocolsPerHandle": [],
+        "RegisterProtocolNotify": [
+            4155
+        ],
+        "ReinstallProtocolInterface": [],
+        "UninstallMultipleProtocolInterfaces": [],
+        "UninstallProtocolInterface": []
+    },
+    "gBS": [
+        111336,
+        111448
+    ],
+    "gImageHandle": [],
+    "gRT": [
+        111456
+    ],
+    "gST": [
+        111328,
+        111440
+    ],
+    "gSmst": [
+        111344
+    ],
+    "pei_all": null,
+    "protocols": [
+        {
+            "address": 107680,
+            "guid": [
+                4107059127,
+                63200,
+                18429,
+                157,
+                212,
+                16,
+                168,
+                241,
+                80,
+                193,
+                145
+            ],
+            "prot_name": "EFI_SMM_BASE2_PROTOCOL_GUID",
+            "service": "LocateProtocol",
+            "xref": 825
+        },
+        {
+            "address": 107520,
+            "guid": [
+                718856914,
+                11921,
+                19665,
+                149,
+                245,
+                231,
+                143,
+                229,
+                235,
+                227,
+                22
+            ],
+            "prot_name": "EFI_USB_PROTOCOL_GUID",
+            "service": "LocateProtocol",
+            "xref": 3687
+        },
+        {
+            "address": 107552,
+            "guid": [
+                1482279798,
+                27631,
+                18058,
+                190,
+                45,
+                179,
+                221,
+                26,
+                39,
+                240,
+                18
+            ],
+            "prot_name": "EFI_USB_POLICY_PROTOCOL_GUID",
+            "service": "LocateProtocol",
+            "xref": 21045
+        },
+        {
+            "address": 107728,
+            "guid": [
+                908273974,
+                3702,
+                12744,
+                161,
+                58,
+                58,
+                242,
+                252,
+                28,
+                57,
+                50
+            ],
+            "prot_name": "gAmiDebugServicePpiGuid",
+            "service": "LocateProtocol",
+            "xref": 104392
+        },
+        {
+            "address": 107536,
+            "guid": [
+                1056395278,
+                53077,
+                18255,
+                142,
+                126,
+                0,
+                158,
+                14,
+                172,
+                236,
+                210
+            ],
+            "prot_name": "AMI_USB_SMM_PROTOCOL_GUID",
+            "service": "SmmRegisterProtocolNotify",
+            "xref": 1141
+        },
+        {
+            "address": 107712,
+            "guid": [
+                3662101887,
+                19249,
+                19811,
+                146,
+                183,
+                61,
+                144,
+                94,
+                248,
+                75,
+                132
+            ],
+            "prot_name": "gAmiSmmBufferValidationProtocolGuid",
+            "service": "SmmLocateProtocol",
+            "xref": 886
+        },
+        {
+            "address": 107536,
+            "guid": [
+                1056395278,
+                53077,
+                18255,
+                142,
+                126,
+                0,
+                158,
+                14,
+                172,
+                236,
+                210
+            ],
+            "prot_name": "AMI_USB_SMM_PROTOCOL_GUID",
+            "service": "SmmLocateProtocol",
+            "xref": 1102
+        }
+    ],
+    "rt_all": null,
+    "smi_handlers": [
+        4216
+    ],
+    "smm_all": {
+        "SmmAllocatePool": [
+            105180,
+            105242
+        ],
+        "SmmFreePool": [
+            105892,
+            105951
+        ],
+        "SmmLocateProtocol": [
+            902,
+            1111
+        ],
+        "SmmRegisterProtocolNotify": [
+            1148
+        ]
+    },
+    "smm_protocols": {
+        "SmmHandleProtocol": [],
+        "SmmInstallProtocolInterface": [],
+        "SmmLocateHandle": [],
+        "SmmLocateProtocol": [
+            902,
+            1111
+        ],
+        "SmmRegisterProtocolNotify": [
+            1148
+        ],
+        "SmmUninstallProtocolInterface": []
+    }
+}

@@ -1,0 +1,11 @@
+Type: NVAR entry
+Subtype: Full
+Text: CpuSmm
+Fixed: Yes
+Offset: 10E0h
+Variable GUID: 90D93E09-4E91-4B3D-8C77-C82FF10E3C81
+GUID index: 3
+Full size: 18h (24)
+Header size: 12h (18)
+Body size: 6h (6)
+Attributes: 82h (AsciiName, Valid)

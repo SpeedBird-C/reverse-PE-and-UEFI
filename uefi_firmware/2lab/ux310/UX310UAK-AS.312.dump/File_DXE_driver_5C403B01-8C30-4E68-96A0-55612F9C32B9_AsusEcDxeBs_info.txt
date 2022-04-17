@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AsusEcDxeBs
+Fixed: No
+Offset: 2352B8h
+File GUID: 5C403B01-8C30-4E68-96A0-55612F9C32B9
+Type: 07h
+Attributes: 00h
+Full size: 22E2h (8930)
+Header size: 18h (24)
+Body size: 22CAh (8906)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 09h, valid
+Data checksum: AAh, valid

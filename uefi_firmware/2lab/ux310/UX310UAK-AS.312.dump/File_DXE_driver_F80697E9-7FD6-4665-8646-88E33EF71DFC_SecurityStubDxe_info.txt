@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SecurityStubDxe
+Fixed: No
+Offset: 4CAB8h
+File GUID: F80697E9-7FD6-4665-8646-88E33EF71DFC
+Type: 07h
+Attributes: 00h
+Full size: 98C6h (39110)
+Header size: 18h (24)
+Body size: 98AEh (39086)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 98h, valid
+Data checksum: AAh, valid

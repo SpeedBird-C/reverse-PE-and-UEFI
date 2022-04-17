@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: AsusPcie2ClkReqMapping
+Fixed: No
+Base: 53B7D8h
+Header address: FFF3AFD8h
+Data address: FFF3AFF0h
+Offset: 1AFD8h
+File GUID: 6CC094E8-8278-47AB-868C-D826539968C1
+Type: 06h
+Attributes: 00h
+Full size: 80Eh (2062)
+Header size: 18h (24)
+Body size: 7F6h (2038)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 2Bh, valid
+Data checksum: AAh, valid

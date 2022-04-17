@@ -1,0 +1,52 @@
+{
+    "bs_all": {
+        "AllocatePool": [
+            1036
+        ]
+    },
+    "bs_protocols": {
+        "CloseProtocol": [],
+        "HandleProtocol": [],
+        "InstallMultipleProtocolInterfaces": [],
+        "InstallProtocolInterface": [],
+        "LocateHandleBuffer": [],
+        "LocateProtocol": [],
+        "OpenProtocol": [],
+        "OpenProtocolInformation": [],
+        "ProtocolsPerHandle": [],
+        "RegisterProtocolNotify": [],
+        "ReinstallProtocolInterface": [],
+        "UninstallMultipleProtocolInterfaces": [],
+        "UninstallProtocolInterface": []
+    },
+    "gBS": [
+        1280
+    ],
+    "gImageHandle": [
+        1264
+    ],
+    "gRT": [
+        1288
+    ],
+    "gST": [
+        1272
+    ],
+    "gSmst": [],
+    "pei_all": null,
+    "protocols": [],
+    "rt_all": {
+        "SetVariable": [
+            977
+        ]
+    },
+    "smi_handlers": [],
+    "smm_all": null,
+    "smm_protocols": {
+        "SmmHandleProtocol": [],
+        "SmmInstallProtocolInterface": [],
+        "SmmLocateHandle": [],
+        "SmmLocateProtocol": [],
+        "SmmRegisterProtocolNotify": [],
+        "SmmUninstallProtocolInterface": []
+    }
+}

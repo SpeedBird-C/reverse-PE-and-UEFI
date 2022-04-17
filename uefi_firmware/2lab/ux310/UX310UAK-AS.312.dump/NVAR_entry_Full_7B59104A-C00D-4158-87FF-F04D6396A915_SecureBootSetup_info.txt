@@ -1,0 +1,14 @@
+Type: NVAR entry
+Subtype: Full
+Text: SecureBootSetup
+Fixed: Yes
+Base: 21AE4h
+Header address: FFA212E4h
+Data address: FFA212FFh
+Offset: 1254h
+Variable GUID: 7B59104A-C00D-4158-87FF-F04D6396A915
+GUID index: 9
+Full size: 22h (34)
+Header size: 1Bh (27)
+Body size: 7h (7)
+Attributes: 82h (AsciiName, Valid)

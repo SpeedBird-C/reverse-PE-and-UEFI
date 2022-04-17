@@ -1,0 +1,18 @@
+Type: Volume
+Subtype: FFSv2
+Fixed: Yes
+Offset: 4h
+ZeroVector:
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+Signature: _FVH
+FileSystem GUID: 8C8CE578-8A3D-4F1C-9935-896185C32DD3
+Full size: 779000h (7835648)
+Header size: 78h (120)
+Body size: 778F88h (7835528)
+Revision: 2
+Attributes: 0004FEFFh
+Erase polarity: 1
+Checksum: 4E7Fh, valid
+Extended header size: 14h (20)
+Volume GUID: 5C60F367-A505-419A-859E-2A4FF6CA6FE5

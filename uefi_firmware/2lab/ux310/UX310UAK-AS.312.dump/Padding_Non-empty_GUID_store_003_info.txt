@@ -1,0 +1,6 @@
+Type: Padding
+Subtype: Non-empty
+Fixed: Yes
+Offset: 13C4h
+Full size: 10h (16)
+GUIDs in store: 1

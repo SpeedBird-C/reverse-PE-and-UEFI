@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CodeAccessCheckDxe
+Fixed: No
+Offset: 1E99F8h
+File GUID: 5CB46307-B557-4E20-A0F4-06EF9C35DC01
+Type: 07h
+Attributes: 00h
+Full size: C1Eh (3102)
+Header size: 18h (24)
+Body size: C06h (3078)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A4h, valid
+Data checksum: AAh, valid

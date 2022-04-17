@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: BiosGuardRecovery
+Fixed: No
+Base: 517C08h
+Header address: FFF17408h
+Data address: FFF17420h
+Offset: 77408h
+File GUID: 95C894B4-DAEC-46E1-8600-3C4C7FC985D6
+Type: 06h
+Attributes: 00h
+Full size: 896h (2198)
+Header size: 18h (24)
+Body size: 87Eh (2174)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 19h, valid
+Data checksum: AAh, valid

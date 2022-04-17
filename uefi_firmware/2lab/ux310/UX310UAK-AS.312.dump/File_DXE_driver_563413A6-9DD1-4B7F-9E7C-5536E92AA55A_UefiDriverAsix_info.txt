@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: UefiDriverAsix
+Fixed: No
+Offset: 37E9C8h
+File GUID: 563413A6-9DD1-4B7F-9E7C-5536E92AA55A
+Type: 07h
+Attributes: 00h
+Full size: 6B06h (27398)
+Header size: 18h (24)
+Body size: 6AEEh (27374)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 56h, valid
+Data checksum: AAh, valid

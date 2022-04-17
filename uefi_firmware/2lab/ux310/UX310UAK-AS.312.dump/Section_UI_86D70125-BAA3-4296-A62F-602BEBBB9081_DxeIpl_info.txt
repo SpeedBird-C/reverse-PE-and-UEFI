@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 4C5D18h
+Header address: FFEC5518h
+Data address: FFEC551Ch
+Offset: 3460h
+Type: 15h
+Full size: 12h (18)
+Header size: 4h (4)
+Body size: Eh (14)
+Text: DxeIpl

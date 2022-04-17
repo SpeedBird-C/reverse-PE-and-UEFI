@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 53BFA4h
+Header address: FFF3B7A4h
+Data address: FFF3B7A8h
+Offset: 7CCh
+Type: 15h
+Full size: 32h (50)
+Header size: 4h (4)
+Body size: 2Eh (46)
+Text: AsusPcie2ClkReqMapping

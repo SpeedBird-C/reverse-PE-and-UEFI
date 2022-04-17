@@ -1,0 +1,14 @@
+Type: File
+Subtype: DXE driver
+Fixed: No
+Offset: 74B140h
+File GUID: CADF00D7-3160-4E71-8C6A-2BD33E3D1001
+Type: 07h
+Attributes: 00h
+Full size: E0E2h (57570)
+Header size: 18h (24)
+Body size: E0CAh (57546)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E7h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: PepBccdSmm
+Fixed: No
+Offset: 3BD4D0h
+File GUID: B3D3502E-CB82-4017-AB34-2F17D2D7035F
+Type: 0Ah
+Attributes: 00h
+Full size: 26EEh (9966)
+Header size: 18h (24)
+Body size: 26D6h (9942)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 0Ah, valid
+Data checksum: AAh, valid

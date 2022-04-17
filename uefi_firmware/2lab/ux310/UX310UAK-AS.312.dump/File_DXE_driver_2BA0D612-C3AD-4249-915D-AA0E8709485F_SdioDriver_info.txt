@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SdioDriver
+Fixed: No
+Offset: 36A680h
+File GUID: 2BA0D612-C3AD-4249-915D-AA0E8709485F
+Type: 07h
+Attributes: 00h
+Full size: 4F76h (20342)
+Header size: 18h (24)
+Body size: 4F5Eh (20318)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A9h, valid
+Data checksum: AAh, valid

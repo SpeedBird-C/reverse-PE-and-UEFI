@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: HstiSiliconDxe
+Fixed: No
+Offset: C4028h
+File GUID: 60740CF3-D428-4500-80E6-04A5798241ED
+Type: 07h
+Attributes: 00h
+Full size: 6916h (26902)
+Header size: 18h (24)
+Body size: 68FEh (26878)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 2Eh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: DxeBoardConfigInit
+Fixed: No
+Offset: 503400h
+File GUID: AAC9B0AF-A46A-49D8-8016-9B9DAD2C7F5E
+Type: 07h
+Attributes: 00h
+Full size: 454Eh (17742)
+Header size: 18h (24)
+Body size: 4536h (17718)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E1h, valid
+Data checksum: AAh, valid

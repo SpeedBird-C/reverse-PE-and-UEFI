@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AsusUsbChargeSmm
+Fixed: No
+Offset: 475420h
+File GUID: A0B852E0-4842-4222-8964-C82EDCFF0D6B
+Type: 0Ah
+Attributes: 00h
+Full size: 17B2h (6066)
+Header size: 18h (24)
+Body size: 179Ah (6042)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 7Fh, valid
+Data checksum: AAh, valid

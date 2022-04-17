@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 4C6194h
+Header address: FFEC5994h
+Data address: FFEC5998h
+Offset: 454h
+Type: 15h
+Full size: 46h (70)
+Header size: 4h (4)
+Body size: 42h (66)
+Text: AcpiVariableHobOnSmramReserveHob

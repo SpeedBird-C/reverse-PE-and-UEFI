@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SerialDebugInitDxe
+Fixed: No
+Offset: 232C70h
+File GUID: 79FD86B3-D74F-4D6F-9577-FBE062977086
+Type: 07h
+Attributes: 00h
+Full size: 4AEh (1198)
+Header size: 18h (24)
+Body size: 496h (1174)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E0h, valid
+Data checksum: AAh, valid

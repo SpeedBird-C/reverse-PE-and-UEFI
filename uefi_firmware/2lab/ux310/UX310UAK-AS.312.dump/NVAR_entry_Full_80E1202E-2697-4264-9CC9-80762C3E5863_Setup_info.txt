@@ -1,0 +1,14 @@
+Type: NVAR entry
+Subtype: Full
+Text: Setup
+Fixed: Yes
+Base: 21B59h
+Header address: FFA21359h
+Data address: FFA2136Ah
+Offset: 12C9h
+Variable GUID: 80E1202E-2697-4264-9CC9-80762C3E5863
+GUID index: 11
+Full size: 17h (23)
+Header size: 11h (17)
+Body size: 6h (6)
+Attributes: 82h (AsciiName, Valid)

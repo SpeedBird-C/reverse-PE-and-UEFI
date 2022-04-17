@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PEFirmwareUpdateDXE
+Fixed: No
+Offset: 243030h
+File GUID: 97AF1D95-203C-42DE-8D6B-D13EB7E5A55A
+Type: 07h
+Attributes: 00h
+Full size: BB4Eh (47950)
+Header size: 18h (24)
+Body size: BB36h (47926)
+Tail size: 0h (0)
+State: F8h
+Header checksum: DAh, valid
+Data checksum: AAh, valid

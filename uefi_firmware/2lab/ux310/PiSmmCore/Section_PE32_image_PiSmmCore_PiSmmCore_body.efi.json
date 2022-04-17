@@ -1,0 +1,266 @@
+{
+    "ReadSaveState": [
+        16470,
+        16511
+    ],
+    "bs_all": {
+        "AllocatePages": [
+            17087
+        ],
+        "AllocatePool": [
+            1090,
+            1747,
+            5843,
+            6017,
+            7964,
+            17114,
+            17114
+        ],
+        "FreePages": [
+            17160,
+            17160
+        ],
+        "FreePool": [
+            1140,
+            1140,
+            1265,
+            6257,
+            6294,
+            6294,
+            7036,
+            7053,
+            7036,
+            7053,
+            7053,
+            8515,
+            15139,
+            16237
+        ],
+        "HandleProtocol": [
+            5175,
+            5175,
+            5175,
+            7681,
+            7721,
+            7721
+        ],
+        "InstallConfigurationTable": [
+            1296
+        ],
+        "InstallMultipleProtocolInterfaces": [
+            1912,
+            6168
+        ],
+        "LocateDevicePath": [
+            5057
+        ],
+        "LocateHandleBuffer": [
+            7491
+        ],
+        "LocateProtocol": [
+            5104,
+            5142,
+            5142,
+            14570
+        ],
+        "RaiseTPL": [
+            1120
+        ],
+        "RegisterProtocolNotify": [
+            1333
+        ],
+        "UninstallProtocolInterface": [
+            7002
+        ]
+    },
+    "bs_protocols": {
+        "CloseProtocol": [],
+        "HandleProtocol": [
+            5175,
+            7681,
+            7721
+        ],
+        "InstallMultipleProtocolInterfaces": [
+            1912,
+            6168
+        ],
+        "InstallProtocolInterface": [],
+        "LocateHandleBuffer": [
+            7491
+        ],
+        "LocateProtocol": [
+            5104,
+            5142,
+            14570
+        ],
+        "OpenProtocol": [],
+        "OpenProtocolInformation": [],
+        "ProtocolsPerHandle": [],
+        "RegisterProtocolNotify": [
+            1333
+        ],
+        "ReinstallProtocolInterface": [],
+        "UninstallMultipleProtocolInterfaces": [],
+        "UninstallProtocolInterface": [
+            7002
+        ]
+    },
+    "gBS": [
+        42024
+    ],
+    "gImageHandle": [],
+    "gRT": [
+        42032
+    ],
+    "gST": [
+        42016
+    ],
+    "gSmst": [],
+    "pei_all": null,
+    "protocols": [
+        {
+            "address": 24704,
+            "guid": [
+                1528508833,
+                38242,
+                4562,
+                142,
+                63,
+                0,
+                160,
+                201,
+                105,
+                114,
+                59
+            ],
+            "prot_name": "EFI_LOADED_IMAGE_PROTOCOL_GUID",
+            "service": "UninstallProtocolInterface",
+            "xref": 6995
+        },
+        {
+            "address": 24720,
+            "guid": [
+                156724881,
+                27967,
+                4562,
+                142,
+                57,
+                0,
+                160,
+                201,
+                105,
+                114,
+                59
+            ],
+            "prot_name": "EFI_DEVICE_PATH_PROTOCOL_GUID",
+            "service": "HandleProtocol",
+            "xref": 5168
+        },
+        {
+            "address": 24720,
+            "guid": [
+                156724881,
+                27967,
+                4562,
+                142,
+                57,
+                0,
+                160,
+                201,
+                105,
+                114,
+                59
+            ],
+            "prot_name": "EFI_DEVICE_PATH_PROTOCOL_GUID",
+            "service": "HandleProtocol",
+            "xref": 7711
+        },
+        {
+            "address": 24640,
+            "guid": [
+                571372470,
+                27611,
+                17427,
+                132,
+                5,
+                185,
+                116,
+                177,
+                8,
+                97,
+                154
+            ],
+            "prot_name": "EFI_FIRMWARE_VOLUME2_PROTOCOL_GUID",
+            "service": "LocateHandleBuffer",
+            "xref": 7476
+        },
+        {
+            "address": 24688,
+            "guid": [
+                2494246744,
+                5176,
+                20209,
+                145,
+                82,
+                24,
+                148,
+                26,
+                58,
+                14,
+                104
+            ],
+            "prot_name": "EFI_SECURITY2_ARCH_PROTOCOL_GUID",
+            "service": "LocateProtocol",
+            "xref": 5095
+        },
+        {
+            "address": 24672,
+            "guid": [
+                2758026211,
+                17943,
+                18929,
+                185,
+                255,
+                209,
+                191,
+                169,
+                17,
+                88,
+                57
+            ],
+            "prot_name": "EFI_SECURITY_ARCH_PROTOCOL_GUID",
+            "service": "LocateProtocol",
+            "xref": 5133
+        },
+        {
+            "address": 24704,
+            "guid": [
+                1528508833,
+                38242,
+                4562,
+                142,
+                63,
+                0,
+                160,
+                201,
+                105,
+                114,
+                59
+            ],
+            "prot_name": "EFI_LOADED_IMAGE_PROTOCOL_GUID",
+            "service": "InstallMultipleProtocolInterfaces",
+            "xref": 1856
+        }
+    ],
+    "rt_all": null,
+    "smi_handlers": [],
+    "smm_all": null,
+    "smm_protocols": {
+        "SmmHandleProtocol": [],
+        "SmmInstallProtocolInterface": [],
+        "SmmLocateHandle": [],
+        "SmmLocateProtocol": [],
+        "SmmRegisterProtocolNotify": [],
+        "SmmUninstallProtocolInterface": []
+    }
+}

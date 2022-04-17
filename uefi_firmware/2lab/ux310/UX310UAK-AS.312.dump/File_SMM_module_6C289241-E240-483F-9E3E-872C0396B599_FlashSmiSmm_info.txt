@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: FlashSmiSmm
+Fixed: No
+Offset: 41E3D0h
+File GUID: 6C289241-E240-483F-9E3E-872C0396B599
+Type: 0Ah
+Attributes: 00h
+Full size: 1562h (5474)
+Header size: 18h (24)
+Body size: 154Ah (5450)
+Tail size: 0h (0)
+State: F8h
+Header checksum: F9h, valid
+Data checksum: AAh, valid

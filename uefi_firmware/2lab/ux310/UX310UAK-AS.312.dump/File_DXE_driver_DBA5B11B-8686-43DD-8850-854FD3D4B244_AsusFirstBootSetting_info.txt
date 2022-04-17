@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AsusFirstBootSetting
+Fixed: No
+Offset: 57A688h
+File GUID: DBA5B11B-8686-43DD-8850-854FD3D4B244
+Type: 07h
+Attributes: 00h
+Full size: 1872h (6258)
+Header size: 18h (24)
+Body size: 185Ah (6234)
+Tail size: 0h (0)
+State: F8h
+Header checksum: AEh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PcieSataController
+Fixed: No
+Offset: 366B48h
+File GUID: 2F2295B6-1BB6-4CB7-BB9E-15C2C3424277
+Type: 07h
+Attributes: 00h
+Full size: 3B36h (15158)
+Header size: 18h (24)
+Body size: 3B1Eh (15134)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 2Ah, valid
+Data checksum: AAh, valid

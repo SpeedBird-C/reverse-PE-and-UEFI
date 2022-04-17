@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AsusGpnvDxe
+Fixed: No
+Offset: 4B7DA8h
+File GUID: B3ABBE0A-8B28-4446-BB2C-4409BCC75FD9
+Type: 07h
+Attributes: 00h
+Full size: 685Eh (26718)
+Header size: 18h (24)
+Body size: 6846h (26694)
+Tail size: 0h (0)
+State: F8h
+Header checksum: E1h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,18 @@
+Type: File
+Subtype: Raw
+Text: NVRAM external defaults
+Fixed: Yes
+Base: 5B2958h
+Header address: FFFB2158h
+Data address: FFFB2170h
+Offset: 92158h
+File GUID: 77D3DC50-D42B-4916-AC80-8F469035D150
+Type: 01h
+Attributes: 00h
+Full size: 13E8h (5096)
+Header size: 18h (24)
+Body size: 13D0h (5072)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 49h, valid
+Data checksum: AAh, valid

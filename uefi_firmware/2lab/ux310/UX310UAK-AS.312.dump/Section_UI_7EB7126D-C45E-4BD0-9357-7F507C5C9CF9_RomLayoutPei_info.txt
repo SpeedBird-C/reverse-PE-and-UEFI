@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 5216A4h
+Header address: FFF20EA4h
+Data address: FFF20EA8h
+Offset: D4Ch
+Type: 15h
+Full size: 1Eh (30)
+Header size: 4h (4)
+Body size: 1Ah (26)
+Text: RomLayoutPei

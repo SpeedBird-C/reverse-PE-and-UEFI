@@ -1,0 +1,7 @@
+Type: Free space
+Subtype: 
+Fixed: No
+Base: 487700h
+Address: FFE86F00h
+Offset: 76F00h
+Full size: 19100h (102656)

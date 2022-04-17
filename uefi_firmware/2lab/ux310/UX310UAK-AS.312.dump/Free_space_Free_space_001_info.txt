@@ -1,0 +1,7 @@
+Type: Free space
+Subtype: 
+Fixed: Yes
+Base: 21C40h
+Address: FFA21440h
+Offset: 13C8h
+Full size: 1EBB0h (125872)

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: LegacyInterrupt
+Fixed: No
+Offset: A2C68h
+File GUID: C1C418F9-591D-461C-82A2-B9CD96DFEA86
+Type: 07h
+Attributes: 00h
+Full size: 4E6h (1254)
+Header size: 18h (24)
+Body size: 4CEh (1230)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 12h, valid
+Data checksum: AAh, valid

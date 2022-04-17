@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: IdeBusSrc
+Fixed: No
+Offset: 2A2B50h
+File GUID: AAECDC89-2A49-46F1-A163-F7979C039998
+Type: 07h
+Attributes: 00h
+Full size: 86FEh (34558)
+Header size: 18h (24)
+Body size: 86E6h (34534)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 6Eh, valid
+Data checksum: AAh, valid

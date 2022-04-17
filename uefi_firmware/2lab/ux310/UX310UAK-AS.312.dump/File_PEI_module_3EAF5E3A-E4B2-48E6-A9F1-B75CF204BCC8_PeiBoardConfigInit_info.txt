@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: PeiBoardConfigInit
+Fixed: No
+Base: 4A0878h
+Header address: FFEA0078h
+Data address: FFEA0090h
+Offset: 78h
+File GUID: 3EAF5E3A-E4B2-48E6-A9F1-B75CF204BCC8
+Type: 06h
+Attributes: 00h
+Full size: E10Eh (57614)
+Header size: 18h (24)
+Body size: E0F6h (57590)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 9Bh, valid
+Data checksum: AAh, valid

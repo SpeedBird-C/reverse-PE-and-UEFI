@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: TouchInputFilterDriver
+Fixed: No
+Offset: 2969E8h
+File GUID: 578C3195-D8C1-44F1-8A06-2B592FBE6AF3
+Type: 07h
+Attributes: 00h
+Full size: 16BAh (5818)
+Header size: 18h (24)
+Body size: 16A2h (5794)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 54h, valid
+Data checksum: AAh, valid

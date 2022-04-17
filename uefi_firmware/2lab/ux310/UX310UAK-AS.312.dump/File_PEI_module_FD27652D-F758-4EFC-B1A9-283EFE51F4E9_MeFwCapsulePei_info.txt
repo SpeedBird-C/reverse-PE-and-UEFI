@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: MeFwCapsulePei
+Fixed: No
+Base: 535B70h
+Header address: FFF35370h
+Data address: FFF35388h
+Offset: 15370h
+File GUID: FD27652D-F758-4EFC-B1A9-283EFE51F4E9
+Type: 06h
+Attributes: 00h
+Full size: 4CEh (1230)
+Header size: 18h (24)
+Body size: 4B6h (1206)
+Tail size: 0h (0)
+State: F8h
+Header checksum: EDh, valid
+Data checksum: AAh, valid

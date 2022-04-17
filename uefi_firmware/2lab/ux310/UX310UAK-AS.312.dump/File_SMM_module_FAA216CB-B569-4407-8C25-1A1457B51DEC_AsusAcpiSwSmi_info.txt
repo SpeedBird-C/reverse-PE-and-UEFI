@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AsusAcpiSwSmi
+Fixed: No
+Offset: 468370h
+File GUID: FAA216CB-B569-4407-8C25-1A1457B51DEC
+Type: 0Ah
+Attributes: 00h
+Full size: 212Ah (8490)
+Header size: 18h (24)
+Body size: 2112h (8466)
+Tail size: 0h (0)
+State: F8h
+Header checksum: D1h, valid
+Data checksum: AAh, valid

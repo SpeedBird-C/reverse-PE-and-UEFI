@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: MouseDriver
+Fixed: No
+Offset: 27CEC8h
+File GUID: C7A7030C-C3D8-45EE-BED9-5D9E76762953
+Type: 07h
+Attributes: 00h
+Full size: 485Eh (18526)
+Header size: 18h (24)
+Body size: 4846h (18502)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 0Eh, valid
+Data checksum: AAh, valid

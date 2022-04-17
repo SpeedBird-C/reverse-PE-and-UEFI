@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: HttpDxe
+Fixed: No
+Offset: 2EC000h
+File GUID: 2366C20F-E15A-11E3-8BF1-E4115B28BC50
+Type: 07h
+Attributes: 00h
+Full size: 68DEh (26846)
+Header size: 18h (24)
+Body size: 68C6h (26822)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 2Ah, valid
+Data checksum: AAh, valid

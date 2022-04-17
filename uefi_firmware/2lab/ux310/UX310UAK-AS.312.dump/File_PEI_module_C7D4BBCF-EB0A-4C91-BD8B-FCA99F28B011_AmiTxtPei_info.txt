@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: AmiTxtPei
+Fixed: No
+Base: 532B78h
+Header address: FFF32378h
+Data address: FFF32390h
+Offset: 12378h
+File GUID: C7D4BBCF-EB0A-4C91-BD8B-FCA99F28B011
+Type: 06h
+Attributes: 00h
+Full size: 24Ah (586)
+Header size: 18h (24)
+Body size: 232h (562)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 42h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,17 @@
+Type: File
+Subtype: Raw
+Fixed: No
+Base: 3C1960h
+Header address: FFDC1160h
+Data address: FFDC1178h
+Offset: 371160h
+File GUID: 2FAB50B8-AE15-4219-BAA0-E8CA23E57A1E
+Type: 01h
+Attributes: 00h
+Full size: 3018h (12312)
+Header size: 18h (24)
+Body size: 3000h (12288)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 0Bh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: SmbusDebugPei
+Fixed: No
+Base: 537288h
+Header address: FFF36A88h
+Data address: FFF36AA0h
+Offset: 16A88h
+File GUID: C7DF48CC-063E-4FD4-B775-75C00D9F19F6
+Type: 06h
+Attributes: 00h
+Full size: 1202h (4610)
+Header size: 18h (24)
+Body size: 11EAh (4586)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A9h, valid
+Data checksum: AAh, valid

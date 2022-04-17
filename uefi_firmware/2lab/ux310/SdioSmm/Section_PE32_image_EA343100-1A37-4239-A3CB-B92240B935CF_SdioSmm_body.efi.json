@@ -1,0 +1,176 @@
+{
+    "bs_all": {
+        "LocateProtocol": [
+            1365,
+            2821,
+            2821
+        ]
+    },
+    "bs_protocols": {
+        "CloseProtocol": [],
+        "HandleProtocol": [],
+        "InstallMultipleProtocolInterfaces": [],
+        "InstallProtocolInterface": [],
+        "LocateHandleBuffer": [],
+        "LocateProtocol": [
+            738,
+            1365,
+            2821
+        ],
+        "OpenProtocol": [],
+        "OpenProtocolInformation": [],
+        "ProtocolsPerHandle": [],
+        "RegisterProtocolNotify": [],
+        "ReinstallProtocolInterface": [],
+        "UninstallMultipleProtocolInterfaces": [],
+        "UninstallProtocolInterface": []
+    },
+    "gBS": [
+        8088,
+        8184
+    ],
+    "gImageHandle": [
+        8072
+    ],
+    "gRT": [
+        8192
+    ],
+    "gST": [
+        8080,
+        8176
+    ],
+    "gSmst": [
+        8096,
+        8240
+    ],
+    "pei_all": null,
+    "protocols": [
+        {
+            "address": 6240,
+            "ea": 738,
+            "guid": [
+                4107059127,
+                63200,
+                18429,
+                157,
+                212,
+                16,
+                168,
+                241,
+                80,
+                193,
+                145
+            ],
+            "prot_name": "gEfiSmmBase2ProtocolGuid",
+            "service": "LocateProtocol",
+            "xref": 716
+        },
+        {
+            "address": 6240,
+            "ea": 1365,
+            "guid": [
+                4107059127,
+                63200,
+                18429,
+                157,
+                212,
+                16,
+                168,
+                241,
+                80,
+                193,
+                145
+            ],
+            "prot_name": "gEfiSmmBase2ProtocolGuid",
+            "service": "LocateProtocol",
+            "xref": 1356
+        },
+        {
+            "address": 6288,
+            "ea": 2821,
+            "guid": [
+                908273974,
+                3702,
+                12744,
+                161,
+                58,
+                58,
+                242,
+                252,
+                28,
+                57,
+                50
+            ],
+            "prot_name": "gAmiDebugServiceProtocolGuid",
+            "service": "LocateProtocol",
+            "xref": 2812
+        },
+        {
+            "address": 6304,
+            "ea": 792,
+            "guid": [
+                3662101887,
+                19249,
+                19811,
+                146,
+                183,
+                61,
+                144,
+                94,
+                248,
+                75,
+                132
+            ],
+            "prot_name": "gAmiSmmBufferValidationProtocolGuid",
+            "service": "SmmLocateProtocol",
+            "xref": 776
+        },
+        {
+            "address": 6256,
+            "ea": 1426,
+            "guid": [
+                413386460,
+                24298,
+                18632,
+                161,
+                193,
+                181,
+                51,
+                137,
+                249,
+                137,
+                153
+            ],
+            "prot_name": "gEfiSmmSwDispatch2ProtocolGuid",
+            "service": "SmmLocateProtocol",
+            "xref": 1417
+        }
+    ],
+    "rt_all": null,
+    "smi_handlers": [
+        1520
+    ],
+    "smm_all": {
+        "SmiHandlerRegister": [
+            1504
+        ],
+        "SmmAllocatePool": [
+            1005
+        ],
+        "SmmLocateProtocol": [
+            792,
+            1426
+        ]
+    },
+    "smm_protocols": {
+        "SmmHandleProtocol": [],
+        "SmmInstallProtocolInterface": [],
+        "SmmLocateHandle": [],
+        "SmmLocateProtocol": [
+            792,
+            1426
+        ],
+        "SmmRegisterProtocolNotify": [],
+        "SmmUninstallProtocolInterface": []
+    }
+}

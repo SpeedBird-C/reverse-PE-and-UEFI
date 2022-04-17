@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: EnhancePeiVariable
+Fixed: No
+Base: 5B06B8h
+Header address: FFFAFEB8h
+Data address: FFFAFED0h
+Offset: 8FEB8h
+File GUID: E03E6451-297A-4FE9-B1F7-639B70327C52
+Type: 06h
+Attributes: 00h
+Full size: F6Eh (3950)
+Header size: 18h (24)
+Body size: F56h (3926)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B9h, valid
+Data checksum: AAh, valid

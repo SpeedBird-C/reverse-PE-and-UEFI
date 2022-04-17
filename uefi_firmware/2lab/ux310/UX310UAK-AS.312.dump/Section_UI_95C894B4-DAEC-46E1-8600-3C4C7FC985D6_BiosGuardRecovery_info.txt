@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 518468h
+Header address: FFF17C68h
+Data address: FFF17C6Ch
+Offset: 860h
+Type: 15h
+Full size: 28h (40)
+Header size: 4h (4)
+Body size: 24h (36)
+Text: BiosGuardRecovery

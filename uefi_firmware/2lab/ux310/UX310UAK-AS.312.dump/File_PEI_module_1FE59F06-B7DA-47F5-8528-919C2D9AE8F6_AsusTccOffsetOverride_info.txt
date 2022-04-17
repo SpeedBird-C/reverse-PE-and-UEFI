@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: AsusTccOffsetOverride
+Fixed: No
+Base: 53BFE8h
+Header address: FFF3B7E8h
+Data address: FFF3B800h
+Offset: 1B7E8h
+File GUID: 1FE59F06-B7DA-47F5-8528-919C2D9AE8F6
+Type: 06h
+Attributes: 00h
+Full size: 362h (866)
+Header size: 18h (24)
+Body size: 34Ah (842)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A0h, valid
+Data checksum: AAh, valid

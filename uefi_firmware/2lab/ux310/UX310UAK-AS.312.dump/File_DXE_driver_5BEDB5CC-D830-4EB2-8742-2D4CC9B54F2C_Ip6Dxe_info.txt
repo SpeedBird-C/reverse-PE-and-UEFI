@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: Ip6Dxe
+Fixed: No
+Offset: 3237A0h
+File GUID: 5BEDB5CC-D830-4EB2-8742-2D4CC9B54F2C
+Type: 07h
+Attributes: 00h
+Full size: 1347Ah (78970)
+Header size: 18h (24)
+Body size: 13462h (78946)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 3Eh, valid
+Data checksum: AAh, valid

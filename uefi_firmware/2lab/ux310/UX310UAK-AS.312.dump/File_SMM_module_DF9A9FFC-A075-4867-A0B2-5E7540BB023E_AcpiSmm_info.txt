@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: AcpiSmm
+Fixed: No
+Offset: 3B9058h
+File GUID: DF9A9FFC-A075-4867-A0B2-5E7540BB023E
+Type: 0Ah
+Attributes: 00h
+Full size: BFEh (3070)
+Header size: 18h (24)
+Body size: BE6h (3046)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B5h, valid
+Data checksum: AAh, valid

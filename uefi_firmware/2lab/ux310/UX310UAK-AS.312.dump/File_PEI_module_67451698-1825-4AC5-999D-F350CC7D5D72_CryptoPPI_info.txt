@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: CryptoPPI
+Fixed: No
+Base: 507478h
+Header address: FFF06C78h
+Data address: FFF06C90h
+Offset: 66C78h
+File GUID: 67451698-1825-4AC5-999D-F350CC7D5D72
+Type: 06h
+Attributes: 00h
+Full size: 590Ah (22794)
+Header size: 18h (24)
+Body size: 58F2h (22770)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 60h, valid
+Data checksum: AAh, valid

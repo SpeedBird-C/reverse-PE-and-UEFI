@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: S3SaveStateDxe
+Fixed: No
+Offset: 17DD10h
+File GUID: BDCE85BB-FBAA-4F4E-9264-501A2C249581
+Type: 07h
+Attributes: 00h
+Full size: 3526h (13606)
+Header size: 18h (24)
+Body size: 350Eh (13582)
+Tail size: 0h (0)
+State: F8h
+Header checksum: CBh, valid
+Data checksum: AAh, valid

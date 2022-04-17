@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: OverClockSmiHandler
+Fixed: No
+Offset: 3B9C58h
+File GUID: 4698C2BD-A903-410E-AD1F-5EEF3A1AE422
+Type: 0Ah
+Attributes: 00h
+Full size: 3876h (14454)
+Header size: 18h (24)
+Body size: 385Eh (14430)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 7Dh, valid
+Data checksum: AAh, valid

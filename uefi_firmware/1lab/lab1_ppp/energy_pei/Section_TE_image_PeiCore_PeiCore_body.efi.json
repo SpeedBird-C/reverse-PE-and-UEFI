@@ -1,0 +1,71 @@
+{
+    "bs_all": null,
+    "bs_protocols": {
+        "CloseProtocol": [],
+        "HandleProtocol": [],
+        "InstallMultipleProtocolInterfaces": [],
+        "InstallProtocolInterface": [],
+        "LocateHandleBuffer": [],
+        "LocateProtocol": [],
+        "OpenProtocol": [],
+        "OpenProtocolInformation": [],
+        "ProtocolsPerHandle": [],
+        "RegisterProtocolNotify": [],
+        "ReinstallProtocolInterface": [],
+        "UninstallMultipleProtocolInterfaces": [],
+        "UninstallProtocolInterface": []
+    },
+    "gBS": [],
+    "gImageHandle": [],
+    "gRT": [],
+    "gST": [],
+    "gSmst": [],
+    "pei_all": {
+        "AllocatePages": [
+            4294065739,
+            4294065827
+        ],
+        "AllocatePool": [
+            4294066220
+        ],
+        "CreateHob": [
+            4294055729,
+            4294066584
+        ],
+        "FfsFindSectionData": [
+            4294064800
+        ],
+        "GetHobList": [
+            4294066456
+        ],
+        "InstallPpi": [
+            4294066786
+        ],
+        "LocatePpi": [
+            4294066839
+        ],
+        "NotifyPpi": [
+            4294054745,
+            4294056706,
+            4294066858
+        ],
+        "ReInstallPpi": [
+            4294066808
+        ],
+        "ReportStatusCode": [
+            4294067240
+        ]
+    },
+    "protocols": [],
+    "rt_all": null,
+    "smi_handlers": [],
+    "smm_all": null,
+    "smm_protocols": {
+        "SmmHandleProtocol": [],
+        "SmmInstallProtocolInterface": [],
+        "SmmLocateHandle": [],
+        "SmmLocateProtocol": [],
+        "SmmRegisterProtocolNotify": [],
+        "SmmUninstallProtocolInterface": []
+    }
+}

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SetupIoDetect
+Fixed: No
+Offset: 2572B8h
+File GUID: 0C8050B7-D2F0-42F8-852B-D1DEB2F2E9B0
+Type: 07h
+Attributes: 00h
+Full size: 1F06h (7942)
+Header size: 18h (24)
+Body size: 1EEEh (7918)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A9h, valid
+Data checksum: AAh, valid

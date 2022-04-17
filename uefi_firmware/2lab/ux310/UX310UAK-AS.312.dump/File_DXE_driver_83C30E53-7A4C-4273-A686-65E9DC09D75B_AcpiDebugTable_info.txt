@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AcpiDebugTable
+Fixed: No
+Offset: 6E188h
+File GUID: 83C30E53-7A4C-4273-A686-65E9DC09D75B
+Type: 07h
+Attributes: 00h
+Full size: 259Ah (9626)
+Header size: 18h (24)
+Body size: 2582h (9602)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 87h, valid
+Data checksum: AAh, valid

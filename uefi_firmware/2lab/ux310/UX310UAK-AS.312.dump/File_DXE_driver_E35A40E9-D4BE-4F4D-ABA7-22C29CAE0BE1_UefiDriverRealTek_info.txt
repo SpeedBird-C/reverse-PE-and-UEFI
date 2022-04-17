@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: UefiDriverRealTek
+Fixed: No
+Offset: 36F5F8h
+File GUID: E35A40E9-D4BE-4F4D-ABA7-22C29CAE0BE1
+Type: 07h
+Attributes: 00h
+Full size: F3CAh (62410)
+Header size: 18h (24)
+Body size: F3B2h (62386)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 3Ch, valid
+Data checksum: AAh, valid

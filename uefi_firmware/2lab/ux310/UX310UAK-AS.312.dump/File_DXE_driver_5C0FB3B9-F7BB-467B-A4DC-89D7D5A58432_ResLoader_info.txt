@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: ResLoader
+Fixed: No
+Offset: 252358h
+File GUID: 5C0FB3B9-F7BB-467B-A4DC-89D7D5A58432
+Type: 07h
+Attributes: 00h
+Full size: 401Ah (16410)
+Header size: 18h (24)
+Body size: 4002h (16386)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 45h, valid
+Data checksum: AAh, valid

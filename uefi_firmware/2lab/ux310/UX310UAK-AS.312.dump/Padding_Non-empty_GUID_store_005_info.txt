@@ -1,0 +1,8 @@
+Type: Padding
+Subtype: Non-empty
+Fixed: Yes
+Base: 5B3D30h
+Address: FFFB3530h
+Offset: 13D8h
+Full size: 10h (16)
+GUIDs in store: 1

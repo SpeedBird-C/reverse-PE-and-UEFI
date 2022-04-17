@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SmmPciRbIo
+Fixed: No
+Offset: 413EA0h
+File GUID: 37A01080-2346-4A54-9900-D22B7B687C22
+Type: 0Ah
+Attributes: 00h
+Full size: 2726h (10022)
+Header size: 18h (24)
+Body size: 270Eh (9998)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 24h, valid
+Data checksum: AAh, valid

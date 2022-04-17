@@ -1,0 +1,7 @@
+Type: Free space
+Subtype: 
+Fixed: No
+Base: 5E0908h
+Address: FFFE0108h
+Offset: 18h
+Full size: 1BEF8h (114424)

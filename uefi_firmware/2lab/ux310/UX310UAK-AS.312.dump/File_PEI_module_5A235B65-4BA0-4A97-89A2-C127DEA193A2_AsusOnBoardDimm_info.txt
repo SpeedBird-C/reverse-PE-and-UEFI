@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: AsusOnBoardDimm
+Fixed: No
+Base: 539628h
+Header address: FFF38E28h
+Data address: FFF38E40h
+Offset: 18E28h
+File GUID: 5A235B65-4BA0-4A97-89A2-C127DEA193A2
+Type: 06h
+Attributes: 00h
+Full size: 21AEh (8622)
+Header size: 18h (24)
+Body size: 2196h (8598)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 5Bh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: PeiOverClock
+Fixed: No
+Base: 4C61F0h
+Header address: FFEC59F0h
+Data address: FFEC5A08h
+Offset: 259F0h
+File GUID: BD87C542-9CFF-4D4A-A890-02B6AF986F34
+Type: 06h
+Attributes: 00h
+Full size: 916h (2326)
+Header size: 18h (24)
+Body size: 8FEh (2302)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 84h, valid
+Data checksum: AAh, valid

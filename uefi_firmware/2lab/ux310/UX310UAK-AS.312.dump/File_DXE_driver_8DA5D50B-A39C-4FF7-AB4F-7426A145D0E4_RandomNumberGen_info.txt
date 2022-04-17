@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: RandomNumberGen
+Fixed: No
+Offset: 22F568h
+File GUID: 8DA5D50B-A39C-4FF7-AB4F-7426A145D0E4
+Type: 07h
+Attributes: 00h
+Full size: FA6h (4006)
+Header size: 18h (24)
+Body size: F8Eh (3982)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 7Fh, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AsusSensor
+Fixed: No
+Offset: 24EB80h
+File GUID: 3B749932-2DE6-4021-A639-5753536A4FCF
+Type: 07h
+Attributes: 00h
+Full size: 1012h (4114)
+Header size: 18h (24)
+Body size: FFAh (4090)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 85h, valid
+Data checksum: AAh, valid

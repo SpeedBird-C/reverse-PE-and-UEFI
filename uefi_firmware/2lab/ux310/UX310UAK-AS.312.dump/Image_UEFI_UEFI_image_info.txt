@@ -1,0 +1,7 @@
+Type: Image
+Subtype: UEFI
+Fixed: Yes
+Base: 800h
+Address: FFA00000h
+Offset: 800h
+Full size: 600000h (6291456)

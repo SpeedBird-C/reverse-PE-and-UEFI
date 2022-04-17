@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AsusSerialIO
+Fixed: No
+Offset: 24FB98h
+File GUID: 98857AE4-2029-4EC0-97F9-C9E7C4BF3DA3
+Type: 07h
+Attributes: 00h
+Full size: 11D2h (4562)
+Header size: 18h (24)
+Body size: 11BAh (4538)
+Tail size: 0h (0)
+State: F8h
+Header checksum: A1h, valid
+Data checksum: AAh, valid

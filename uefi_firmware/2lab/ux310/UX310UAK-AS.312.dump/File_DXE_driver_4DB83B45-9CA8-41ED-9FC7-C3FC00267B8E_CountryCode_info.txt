@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: CountryCode
+Fixed: No
+Offset: 238258h
+File GUID: 4DB83B45-9CA8-41ED-9FC7-C3FC00267B8E
+Type: 07h
+Attributes: 00h
+Full size: D9Eh (3486)
+Header size: 18h (24)
+Body size: D86h (3462)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 03h, valid
+Data checksum: AAh, valid

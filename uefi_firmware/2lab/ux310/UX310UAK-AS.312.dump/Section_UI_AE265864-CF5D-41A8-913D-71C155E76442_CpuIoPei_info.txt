@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 5B1D74h
+Header address: FFFB1574h
+Data address: FFFB1578h
+Offset: 70Ch
+Type: 15h
+Full size: 16h (22)
+Header size: 4h (4)
+Body size: 12h (18)
+Text: CpuIoPei

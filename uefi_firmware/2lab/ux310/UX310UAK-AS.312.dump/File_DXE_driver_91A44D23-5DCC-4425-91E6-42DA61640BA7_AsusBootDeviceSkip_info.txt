@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AsusBootDeviceSkip
+Fixed: No
+Offset: 256378h
+File GUID: 91A44D23-5DCC-4425-91E6-42DA61640BA7
+Type: 07h
+Attributes: 00h
+Full size: F3Eh (3902)
+Header size: 18h (24)
+Body size: F26h (3878)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 6Bh, valid
+Data checksum: AAh, valid

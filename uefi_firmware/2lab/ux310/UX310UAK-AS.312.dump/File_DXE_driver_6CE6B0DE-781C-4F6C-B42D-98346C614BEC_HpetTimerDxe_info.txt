@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: HpetTimerDxe
+Fixed: No
+Offset: 7E9A0h
+File GUID: 6CE6B0DE-781C-4F6C-B42D-98346C614BEC
+Type: 07h
+Attributes: 00h
+Full size: 1052h (4178)
+Header size: 18h (24)
+Body size: 103Ah (4154)
+Tail size: 0h (0)
+State: F8h
+Header checksum: B7h, valid
+Data checksum: AAh, valid

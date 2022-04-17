@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: PlatformInitDxe
+Fixed: No
+Offset: 848E8h
+File GUID: C5046EFD-7BC3-4206-987C-32DA45026E6D
+Type: 07h
+Attributes: 00h
+Full size: 4D86h (19846)
+Header size: 18h (24)
+Body size: 4D6Eh (19822)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 2Ah, valid
+Data checksum: AAh, valid

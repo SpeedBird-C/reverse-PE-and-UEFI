@@ -1,0 +1,18 @@
+Type: File
+Subtype: PEI module
+Text: BiosGuardPeiApRecoveryCapsule
+Fixed: No
+Base: 533490h
+Header address: FFF32C90h
+Data address: FFF32CA8h
+Offset: 12C90h
+File GUID: C776AEA2-AA27-446E-975B-E0BEA9078BD9
+Type: 06h
+Attributes: 00h
+Full size: 15DAh (5594)
+Header size: 18h (24)
+Body size: 15C2h (5570)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 57h, valid
+Data checksum: AAh, valid

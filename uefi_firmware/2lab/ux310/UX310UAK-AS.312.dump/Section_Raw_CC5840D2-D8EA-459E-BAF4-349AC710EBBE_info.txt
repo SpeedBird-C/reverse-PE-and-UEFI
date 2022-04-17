@@ -1,0 +1,8 @@
+Type: Section
+Subtype: Raw
+Fixed: No
+Offset: 18h
+Type: 19h
+Full size: 13C69Ch (1296028)
+Header size: 4h (4)
+Body size: 13C698h (1296024)

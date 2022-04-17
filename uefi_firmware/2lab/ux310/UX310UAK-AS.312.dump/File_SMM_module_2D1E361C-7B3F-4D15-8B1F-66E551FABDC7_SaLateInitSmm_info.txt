@@ -1,0 +1,15 @@
+Type: File
+Subtype: SMM module
+Text: SaLateInitSmm
+Fixed: No
+Offset: 3E9CB0h
+File GUID: 2D1E361C-7B3F-4D15-8B1F-66E551FABDC7
+Type: 0Ah
+Attributes: 00h
+Full size: 6EFAh (28410)
+Header size: 18h (24)
+Body size: 6EE2h (28386)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 11h, valid
+Data checksum: AAh, valid

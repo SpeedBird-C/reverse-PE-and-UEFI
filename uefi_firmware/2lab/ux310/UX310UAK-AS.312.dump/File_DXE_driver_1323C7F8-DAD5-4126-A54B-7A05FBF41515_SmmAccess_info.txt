@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: SmmAccess
+Fixed: No
+Offset: A1958h
+File GUID: 1323C7F8-DAD5-4126-A54B-7A05FBF41515
+Type: 07h
+Attributes: 00h
+Full size: ACAh (2762)
+Header size: 18h (24)
+Body size: AB2h (2738)
+Tail size: 0h (0)
+State: F8h
+Header checksum: 92h, valid
+Data checksum: AAh, valid

@@ -1,0 +1,15 @@
+Type: File
+Subtype: DXE driver
+Text: AsusSmbios
+Fixed: No
+Offset: 250D70h
+File GUID: A2F03EEA-9304-40BE-87B2-7F457B01232A
+Type: 07h
+Attributes: 00h
+Full size: 15E2h (5602)
+Header size: 18h (24)
+Body size: 15CAh (5578)
+Tail size: 0h (0)
+State: F8h
+Header checksum: EDh, valid
+Data checksum: AAh, valid

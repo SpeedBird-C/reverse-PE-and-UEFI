@@ -1,0 +1,12 @@
+Type: Section
+Subtype: UI
+Fixed: No
+Base: 53C30Ch
+Header address: FFF3BB0Ch
+Data address: FFF3BB10h
+Offset: 324h
+Type: 15h
+Full size: 30h (48)
+Header size: 4h (4)
+Body size: 2Ch (44)
+Text: AsusTccOffsetOverride
